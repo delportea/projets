@@ -1,0 +1,6 @@
+stochastic,comparison,methodology,performance,evaluation,fix,mobile,network
+stochastic,comparison,apply,g-network,catastrophe
+failure,preventive,mechanism,ipsec,gateway
+multi-layer,realistic,voice,capacity,evaluation,lte,rel,9,performance,comparison,pmr,gsm
+hash,chain,link,resynchronization,method,video,streaming,security,performance,comparison
+performance,comparison,accord,number,wavelength,topology,pcsa,reservation,mechanism,ob

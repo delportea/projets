@@ -1,0 +1,10 @@
+teletraffic,capacity,performance,wdm/ds-ocdma,passive,optical,network
+performance,evaluation,access,metropolitan,optical,packet,switching,network,interconnection
+optical,man,ring,performance,traffic,aggregation
+performance,comparison,op,variable-size,packet,ob
+end-to-end,performance,evaluation,interconnected,optical,multi-ring,metropolitan,network
+performance,optical,ring,architecture,variable-size,packet,in-line,buffer,semi-synchronous,asynchronous,transparent,mac,protocol
+impact,fixed-size,packet,creation,timer,format,performance,slotted,unslotted,bus,optical,man
+multiservice,optical,packet,switch,network,modeling,performance,evaluation,qos,mechanism,mesh,slot,architecture
+performance,virtual,synchronization,mechanism,asynchronous,optical,network
+modeling,user,impatience,impact,performance,mobile,network
