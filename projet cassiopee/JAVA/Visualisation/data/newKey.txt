@@ -1,0 +1,141 @@
+phish;cognitive psychology;eye tracking
+crowdsense;task allocation;datum quality
+vanet;v2v communication;security;pki;authentication;ieee 1609.2
+acute care;cloud compute;decision support;high performance computing;medical;image analysis;remote collaboration;stroke;telemedicine
+ssl;tl;record protocol;security;mask;countermeasure;defense depth
+gnupg;authenticate encryption;choose ciphertext attack;padding oracle;format oracle;implementation
+iaa infrastructure;cloud;admission control;performance analysis;queue theory
+distribute file system;initiative datum prefetch;mobile cloud computing;server side prediction;time series
+continuous object;monitor;sense;energy efficiency
+network security;wireless security;cryptography
+quality context;quality criterion;context management;meta modeling;information model
+periodic query optimization;cooperative caching;wireless sensor network
+nosql datum store;relational datum store;polyglot persistence;manifest base discovery;odbapi
+location base social network;tensor factorization;user activity preference
+passive testing;wireless sensor network;conformance testing
+information centric networking;resolution;tree architecture;multiple hash function
+cooperation;indoor localization;organize map som;wlan fingerprinting
+network management;wireless network;resource management;adaptive fairness control
+web service;reconfigurable composite service;formal verification;proof;model checking
+facebook;akamai;cdn;geolocation;access delay
+dynamic property;formal method;proof;property pattern
+device device communication;human mobility;information dissemination;opportunistic network
+heterogeneous architecture;opencl;code generation;accelerator
+crowdsource;mobile cloud computing;location base service;privacy
+device device communication;cellular network;resource management
+dtmn;mobility;route;evaluation
+green energy management;smart grid;cyber physical interaction
+distribute memory;divisible load scheduling;adaptive scheduling;datum intensive application;parallel application
+smart grid;smart grid communication;prosumer
+web service;composite service;variability;formal verification;proof;model checking;ltl
+vanet;shortest path;v2v;traffic trace;vehicular;connected component size;performance evaluation
+sca;dynamic reconfiguration;event;formal verification;structural property;behavioral property;behavioral compatibility;dynamic property;service selection;service substitution
+sca;dynamic reconfiguration;event;formal verification;dynamic property;service selection;service substitution
+asymptotic variance â;carlin amp;chibâ pseudo prior method;inhomogeneous markov chain;metropolisation;mixture model;peskun order
+v2v;d2d;vanet;intelligent transportation system
+event;formal development;refinement;development strategy;verification;validation
+test bed;query expansion;query route;result aggregation;document distribution;ontology;peer peer
+consistency;ergodicity;maximum likelihood;observation drivenmodel;time series count
+screen application;content analysis indexing;multimedia information system;visual search;computer vision;3d a/v reconstruction;mpeg 4 bif;multimedia link;multimedia information system artificial;augmented virtual reality
+context aware recommendation;context feature selection
+2d dwt;bag visual word;live recording;video fingerprinting
+hermite function;inter carrier interference;intersymbol interference;optimize waveform;pop ofdm;sinr;5g
+wsn;wban;sensor network;open datum model;semantic;ontology;heterogeneity management;interoperability;ehealth;health
+remote healthcare monitoring system;infrare sensor;dempster shafer;activity daily living;distress situation;datum fusion
+sleep pattern;elder care;pressure sensor;uwb tag;naã ¯ ve baye;random forest
+component base application;autonomic management;container;collaboration
+mapreduce;cloud storage;disk i/o;markov model;scheduling algorithm
+ubiquitous iot service;sense device;functionality clustering;spatial temporal index;query mechanism
+cape;openmp;mpi;high performance computing;parallel programming
+autonomic computing;component base application;container;collaboration
+software define network;latency;handover;mobility management
+sensor base application;service composition;service adaptation;activity recommendation;neighbourhood context
+conditional sequential monte carlo;particle gibb;particle markov chain monte carlo;particle smoothing;state space model
+bit rate;mobile tv;real time system;streaming media;throughput;unicast
+active testing;drp;model base testing;security;test gen;tool
+bayesian filter;conditional monte carlo;hidden markov model;jump markov state space system;multiobject filter;probability hypothesis density;rao blackwellize particle filter
+image fusion;iris recognition;qfire;statistical quality measure;super resolution;video
+conformance testing;distribute system;test case;sip;tdl
+person identification;sparse representation;filter;svm;interest point
+remote learning;virtualization;open education resource;mooc;vagrant
+gc;multicore
+optical communication;hybrid switch
+web service;mediation service maa;composition;mediation
+resource management;cloud computing;business process management
+nondeterministic finite state machine;adaptive homing sequence;adaptive distinguishing sequence;heuristic
+sensor network;energy
+monitor;multi agent;ban;coap;iot;nim;neonatal;incubator
+peer peer information retrieval;formal concept analysis;result merge
+metamorphic system
+participatory sense;collective behavior;location base social network;system usability scale
+curriculum vita;online social nework
+social network;trust;semantic web;foaf
+optical communication equipment;optical packet switching;optoelectronic device;contention resolution
+energy saving;integrated access network;simulation;mobile optic access node;modelling
+energy efficiency;optical access network;line terninal architecture;performance;simulation
+formal method;monitor;sip;passive testing
+quality service qos;quality experience qoe;quality business qobiz;ott service;extend finite state machine efsm
+occi;autonomic computing;qo;service business process;cloud computing;elasticity
+wireless sensor network wsn;internet thing iot;virtualization;node level viirtualization;network level virtualization
+trust model;passive testing;svm;machine learning;dn
+formal language;network monitoring;runtime;testing
+wireless mesh network;attack detection;wmn;route attack;network trace;network security
+lte;network;wireless;energy;green;power;scheduling;pf;exp pf;mlwdf
+mode fiber;mode coupling;fiber optic transmission;mimo
+trust;monitor;process mining;communication system
+passive testing;formal method;performance requirement;sip
+tv whitepsace;user dataset;cognitive radio
+virtualization;machine migration;mobility management
+physical activity;step count;feedback;gamification
+context management;internet thing;context dissemination;multiscalability;quality context;privacy;distribute event base system
+real time tracking;multus sensor system;hybrid tracking;augmented reality;computer vision
+business process service bpaas;cloud computing;ontology;process fragment;semantic technology
+region query processing;route tree construction maintenance;underwater wireless sensor network
+iot;wsn;6lowpan;coap;802.15.4
+business process management;resource management;cloud computing;proof;model checking
+wireless ad hoc network;manet;interoperability;ipv6;olsr;bmx6;docker
+cloud computing;optimization;service base application;autonomic management
+handwriting style;layer clustering;age;gender
+cloud federation;economic study cloud federation
+long term evolution;fractional frequency reuse
+ultra wideband uwb;radar;time delay sampling correlation;time delay sampling correlation tdsc;human chest displacement;distance measurement
+uwb;uwb fiber;optical channel;free space optic
+location base social network;offline event marketing;participant selection
+reality mining;mobile datum;structural knowledge;propagation dynamics
+visual impaired navigation assistant;obstacle detection classification;audio feedback;smartphone device
+smart grid;game theory;optimization;dynamic pricing
+enterprise social system;social collaboration tool;workplace tool
+person identification;sparse representation;interest point;filter;binary classifier
+mpeg 4;w3c;webid;mpeg ud;html5;medusa;application virtualization;remote desktop protocol
+3d mesh morph;spherical parameterization;radial basis function;pseudo supermesh
+assistive robotic;computer vision;intersection kernel svm model;svm hcrf model;dense interest point trajectory
+network mimo;channel selection;potential game;stochastic learning
+c24;distribute system;distribute application;human factor;algorithm;performance;mobile crowdsensing;energy efficiency;anonymous participant;task assignment;decision make
+formal concept analysis;capability modelling;sensor capability
+d2d security;group security;device device communication;lte;identity base encryption ibe
+learn;multus modal traffic;context awareness
+garbage collection;hardware transactional memory;java virtual machine
+datum upload;delay tolerant crowd sense;energy saving;mobile crowdsensing;mobile datum usage
+business process design;event log;query language
+gnss;accuracy;modelling
+prediction;multiple linear regression;clinical gait analysis;cerebral palsy
+cloud performance;stochastic bound;markov chain
+optical packet switching op;optoelectronic device;contention resolution;switch energy consumption
+fuzzy aggregation;choquet integral;result merge;information retrieval
+fiber optics optical communication;mode lock laser;component
+widely linear;saic;quasi rectilinear;noncircular;cci;continuous time;pseudo ml;fresh
+wireless sensor network;internet thing;cloud computing;virtualization;iaa;paa
+revenue prediction;service strategy;taxi gp trace;taxi trajectory mining
+particle approximation feynman kac flow;island model;parallel implementation
+elderly care;dementia;disorientation detection;gp trajectory
+visual impaired mobility;navigation assistant;obstacle detection classification;smartphone device
+optical communication network;birefringent filter;birefringence;liquid crystal
+graph partitioning;complexity theory;optimization;approximation algorithm;polyhedra
+performance evaluation;simulation;distribute cloud;rina;network management;route;topological address
+biomechanic;cerebral palsy;clinical gait analysis;neural network;nonlinear datum fitting
+wban;healthcare;wellfare;leisure;short range;wireless;communication;low power;energy efficiency;coexistence;heterogeneity management;interoperability;semantic;datum model
+alzheimer disease;eeg signal;complexity measure;entropy;hidden markov model;stationary multichannel epoch
+device profile web service dpw;internet thing;iot;simulation;web service
+security;key management;internet thing;wireless sensor network;wireless sensor network
+big datum;nosql;datum modeling;bigdata processing;bigtable database;relational database;preprocess
+participatory sense;cross space repost;datum group selection;interaction base semantic tagging;urban sense
