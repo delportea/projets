@@ -1,0 +1,5 @@
+middleware,task,resolution,adaptation,pervasive,environment
+user,preferences,automatic,device,selection,multimedia,task,pervasive,environment
+qos-aware,device,selection,user,preference,task,ubiquitous,environment
+automatic,task,resolution,adaptation,pervasive,environment
+scalable,multimedia,delivery,qo,management,pervasive,computing,environment

@@ -1,0 +1,9 @@
+energy,saving,base,station,pool,signaling,framework
+ontology,base,p2p,network,semantic,search
+cooperative,relay,ofdma,network,base,joint,hierarchical,modulation,link,adaptation
+optimal,control,base,station,sleep,mode,energy,efficient,radio,access,network
+millimeter,signal,generation,sensor,network,application,base,radio,fibre,technique
+rfid,network,topology,design,base,genetic,algorithm
+joint,decode-and-forward,strategy,physical,network,code,base,factor,graph
+discover,profile,overlap,community,location,base,social,network
+substitution,network,base,software,define,networking

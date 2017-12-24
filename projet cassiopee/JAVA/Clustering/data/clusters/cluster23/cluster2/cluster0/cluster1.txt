@@ -1,0 +1,3 @@
+service,orient,computing,user,perspective
+mashup,service,daily,activity,end-user,perspective,design,consumer
+semi-flooding,location,service,cross-layer,design

@@ -1,0 +1,15 @@
+semantic,annotation,wsdl
+semantic,framework,management,enriched,provenance,log
+osif,framework,instrument,validate,analyze,simulation
+framework,monitoring,reconfiguration,component,dynamic,transformation
+peer-to-peer,framework,rfid/non-rfid,reader-enabled,user
+nash,stackelberg,approach,network,pricing,revenue,maximization,vertical,handover,decision,make
+event,functionality,integration,framework
+enhance,media,independent,handover,framework,vertical,decision,make,base,network,reputation
+framework,social,device,networking
+framework,describe,search,virtual,resource,object
+network,qo,reputation,vertical,handover,decision,make
+collaborative,home,media,community,semantic,support
+framework,ibc,achieve,non-repudiation,privacy,vehicular,network
+monitoring,reconfiguration,occus,resource
+programmable,context,awareness,framework

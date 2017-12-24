@@ -1,0 +1,2 @@
+shape,future,service,environment,cloud,internet,thing,network,challenge,evolution
+inter,intra,cloud,network,gateway,service

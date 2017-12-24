@@ -1,0 +1,6 @@
+live,internet,thing,emergence,embedded,intelligence
+rfid,object,tracking,ip,compatibility,internet,thing
+user-centric,cloud,save,future,...,internet
+opportunistic,iot,explore,harmonious,interaction,human,internet,thing
+internet,thing,embedded,intelligence
+resource,provision,local,public,cloud,internet,thing

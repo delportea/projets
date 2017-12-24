@@ -1,0 +1,4 @@
+cramer,rao,bind,maximum,likelihood,passive,time,delay,estimation,complex,signal
+spectral,efficiency,beamforming,parameter,estimation,single,source,case
+asymptotic,optimal,sinr,performance,bind,space-time,beamforming
+closed-form,expression,exact,cramer-rao,bind,parameter,estimation,bpsk,msk,qpsk,waveform

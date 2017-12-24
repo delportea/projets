@@ -1,0 +1,11 @@
+modelling,performance,evaluation,improved,access,mechanism,multiservice,op,architecture
+performance,view,dnssec,migration
+velocity,effect,performance,manemo
+overcome,dnssec,performance,issue,dht,architecture
+modeling,ngn,authentication,solution,improve,performance,clustering
+improve,performance,cape,discontinuous,incremental,checkpointing
+rfid-assisted,indoor,localization,impact,interference,performance
+significantly,improve,performance,cryptographically,generate,address,ecc,gpgpu
+statistical,performance,music-like,algorithm,resolve,noncircular,source
+performance,study,ob,reservation,protocol
+model,checking,performance,measure,bound,aggregation

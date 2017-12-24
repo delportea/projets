@@ -1,0 +1,17 @@
+model,boot-up,storm,dynamics
+ontology,workflow,organizational,model,mining
+atl,transformation,generation,sca,model
+generic,layer,model,context-aware,communication,adaptation
+social,mobility,model
+qo,management,im,diffserv,model
+consumer,mashup,end-user,perspective,acceptance,model
+lower,bound,computational,power,optical,model,computation
+joint,model,ieee,802.15.4,physical,medium,access,control,layer
+design,shared-memory,model,cape
+myth,telco,ott,model
+extension,ica,model,latent,variable
+model,checking,steady-state,reward,bound,aggregation
+attribute,mining,process,organization,access,control,model
+adaptive,user,profiling,context-aware,trust,model,dependent,people
+calibrate,exponential,ornstein-uhlenbeck,multiscale,stochastic,volatility,model
+stochastic,opinion,dynamics,model,multiple,contents

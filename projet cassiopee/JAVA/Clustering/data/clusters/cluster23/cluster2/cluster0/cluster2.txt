@@ -1,0 +1,2 @@
+demo,dsm,distribute,service,manager,seamless,mobility
+centralize,distribute,architecture,scalable,video,conferencing,service

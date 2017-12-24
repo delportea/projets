@@ -1,0 +1,16 @@
+coherent,versus,incoherent,ber,evaluation,direct,sequence,ocdma,system
+understand,discrete,linear,mode,coupling,few-mode,fiber,transmission,system
+quadratic,stability,descriptor,system,uncertainty,derivative,matrix
+flexible,dynamic,system,automatic,grading,programming,exercise
+sentiment-enhanced,personalized,location,recommendation,system
+decentralize,link,adaptation,multi-link,mimo,interference,system
+gaussian,beam,divergence,effect,crosstalk,coherence,multiplexed,system
+stochastic,comparison,performability,telecommunication,system
+carrier,phase,estimation,scheme,polarization,switched-qpsk,transmission,system
+two-layered,virtualization,overlay,system,software,avatar
+estimation,qoe,video,traffic,fuzzy,expert,system
+interoperability,reuse,system,elearning
+verification,maintenance,e-voting,system,standard
+competency,drive,approach,current,technology,enhance,learn,system
+innovation,current,technology,enhance,learn,system
+paper,classification,system,evote,machine

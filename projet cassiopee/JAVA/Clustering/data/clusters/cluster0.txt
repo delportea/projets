@@ -1,0 +1,11 @@
+ibat,detect,anomalous,taxi,trajectory,gp,trace
+urban,traffic,modelling,prediction,large,scale,taxi,gp,trace
+real-time,detection,anomalous,taxi,trajectory,gp,trace
+hunting,wait,discover,passenger-finding,strategy,large-scale,real-world,taxi,dataset
+measure,social,function,city,region,large-scale,taxi,behavior
+land-use,classification,taxi,gp,trace
+prediction,urban,human,mobility,large-scale,taxi,trace,application
+indoor,positioning,gp,transmitter,experimental,result
+b-planner,night,bus,route,planning,large-scale,taxi,gp,trace
+deterministic,particle,filter,gp,navigation,presence,multipath
+gp,+,back-end,coupon,identification,low-cost,rfid

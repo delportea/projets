@@ -1,0 +1,15 @@
+integrate,ontology,web,service
+workflow,model,executable,web,service,interface
+p2p,implementation,high,availability,web,service
+yasa-m,semantic,web,service,matchmaker
+business,process,personalization,web,widget
+publication,discovery,yasa,web,service
+discover,anomaly,semantic,web,rule
+recommendation,limit,search,space,web,service,discovery
+capacity-driven,web,service,concept,definition,issue,solution
+unique,interface,web,telecom,service,feed,aggregator
+servery,web,telco,marketplace
+myprofile,decentralize,user,profile,identity,web
+converge,web,2.0,telecommunications
+formal,abstraction,compatibility,checking,web,service
+engineering,process,capacity-driven,web,service

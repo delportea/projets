@@ -1,0 +1,17 @@
+handoff,energy,awareness,future,pervasive,environment
+pattern,adaptation,abstract,application,pervasive,environment
+search,composition,learn,object,visual,environment
+widget,facilitate,service,integration,pervasive,environment
+combine,ontology,scenario,context-aware,e-learning,environment
+persuasive,healthcare,self-management,intelligent,environment
+dynamic,reduction,rollback,wireless,multi-user,virtual,environment
+e-learning,u-learning,environment
+trust-orbac,trust,access,control,model,multi-organization,environment
+detect,visibility,heterogeneous,simulated,environment,position,purpose
+ontology,model,siem,environment
+social,composer,social-aware,mashup,creation,environment
+ensure,low,cost,authentication,privacy,preservation,federated,im,environment
+pervasive,multi-sensor,datum,fusion,smart,home,healthcare,monitoring
+omie,ontology,mapping,interactive,extensible,environment
+investigation,relationship,perceive,quality-of-experience,virtual,acoustic,environment,case,3d,audio,telephony
+sound,environment,analysis,smart,home

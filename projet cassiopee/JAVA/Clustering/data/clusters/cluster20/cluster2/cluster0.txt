@@ -1,0 +1,2 @@
+spectral,bound,unconstrained,-1,1,quadratic,optimization,problem
+spectral,bound,unconstrained,1,1,1,quadratic,optimization,problem

@@ -1,0 +1,14 @@
+e2e,optimize,ipsec,architecture,secure,fast,offload
+middleware,architecture,autonomic,software,deployment
+profile,uml2,.0,specification,sca,architecture
+scalability,signaling,architecture
+architecture,secure,datum,delivery,internet
+survey,privacy,personal,information,implication,federated,identity,architecture
+architecture,iptv,content,delivery
+inqa,management,project,qo,architecture,im
+network-controlled,architecture,sctp,hard,handover
+openflow,architecture,e-node,virtualization
+user,behavior,capability,based,access,control,model,architecture
+internet,thing,challenge,architecture,problem
+software,architecture,pattern,context-processing,middleware,framework
+cluster,peer-to-peer,architecture,cloud,smart,home

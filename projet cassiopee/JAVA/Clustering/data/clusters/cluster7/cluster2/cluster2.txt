@@ -1,0 +1,14 @@
+logic,passive,testing,approach,validation,communicate,protocol
+automated,passive,testing,approach,im,poc,service
+improve,protocol,validation,iosts,passive,testing,approach
+iost,base,passive,testing,approach,validation,data-centric,protocol
+invariant,base,passive,testing,approach,protocol,datum,part
+protocol,datum,part,inclusion,formal,passive,testing,approach
+formal,passive,testing,approach,check,real,time,constraint
+analysis,olsr,protocol,formal,passive,testing
+passive,conformance,testing,approach,manet,route,protocol
+formal,passive,testing,approach,test,manet,route,protocol
+passive,conformance,testing,approach,manet,route,protocol
+passive,testing,approach,protocol,internet,thing
+formal,passive,performance,testing,approach,distribute,communication,system
+formal,data-centric,approach,passive,testing,communication,protocol

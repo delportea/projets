@@ -1,0 +1,12 @@
+bound,technique,transient,analysis,g-network,catastrophe
+detect,control,flow,smarphone,combine,static,dynamic,analysis
+delay,capacity,analysis,structured,p2p,overlay,ip,telephony
+cga,alternative,security,credentials,ikev2,implementation,analysis
+analysis,information,relay,processing,inter-vehicle,communication,visit
+analysis,telecommunication,management,technology
+scaling,analysis,multiple-try,mcmc,method
+scaling,analysis,delay,rejection,mcmc,method
+analysis,influence,transmission,delay,competition,tcp,tfrc
+analysis,publicly,disclose,information,facebook,profile
+bioinspired,method,dynamic,signature,analysis
+analysis,near-field,source,localization,uniform,circular,array

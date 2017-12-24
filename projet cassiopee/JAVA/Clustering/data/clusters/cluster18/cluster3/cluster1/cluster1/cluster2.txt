@@ -1,0 +1,7 @@
+spin,approach,detect,vulnerability,program
+advanced,approach,modeling,detect,software,vulnerability
+proof,approach,detect,vulnerability,program
+overview,proof,approach,detect,vulnerability
+comparison,feature,extraction,approach,offline,signature,verification
+industrialise,proof,verification,approach,computerised,interlocking,system
+formal,approach,specification,verification,fault,injection,process

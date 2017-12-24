@@ -1,0 +1,4 @@
+joint,uplink,downlink,admission,control,streaming,elastic,flow,cdma/hsdpa,system
+impact,crosstalk,capacity,performance,wdm/ocdma,system
+user,mobility,web,communication,system
+impact,mobility,performance,datum,flow,ofdma,ieee802,.16,system

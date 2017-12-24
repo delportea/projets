@@ -1,0 +1,3 @@
+autonomic,virtual,router,future,internet
+tibc,trade-off,identity,certificateless,cryptography,internet,future
+servery,future,internet,telco,user,convergence

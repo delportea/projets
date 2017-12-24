@@ -1,0 +1,6 @@
+context,aware,quality,experience,audio-visual,service,group
+service,delivery,base,customer,experience,ontology,shift
+manage,customer,experience,service,quality,monitoring
+quality,experience,audio-visual,service
+qoe,aware,service,delivery,distribute,environment
+privacy,aware,nomadic,service,personalized,iptv

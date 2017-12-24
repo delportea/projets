@@ -1,0 +1,13 @@
+integrate,rfid,wlan,indoor,positioning,ip,movement,detection
+omc-id,cross-road,olap,mining,intrusion,detection
+software,vulnerability,prevention,detection,method,review
+rfid-assisted,movement,detection,improvement,ip,mobility
+testing,technique,vulnerability,detection,program
+enforce,trust,intrusion,detection,cloud,computing,algebraic,method
+direction,intrusion,detection,alert,correlation
+relationship,belief,propagation,decoding,joint,maximum,likelihood,detection
+iboat,isolation,online,anomalous,trajectory,detection
+game,theoretic,framework,reputation,distribute,intrusion,detection
+detection,nonlinguistic,vocalization,unsing,alisp,sequencing
+automatic,detection,advertisement,radio,broadcast,data-driven,alisp,transcription
+real,time,anomalous,trajectory,detection,analysis

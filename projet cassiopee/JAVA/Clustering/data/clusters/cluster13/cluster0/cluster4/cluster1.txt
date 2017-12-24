@@ -1,0 +1,7 @@
+optical,network,today,tomorrow
+optical,network
+liquid-crystal,birefringent,filter,wavelength,blocker/channel,equalizer,reconfigurable,optical,network
+metropolitan,optical,packet,bus,network,bursting,emulation,tdm,service
+upstream,ocdma-tdm,passive,optical,network,sourceless,onu
+improve,energy,saving,time-division,multiplexing,passive,optical,network
+packet,fill,optimization,multiservice,slotted,optical,switching,man,network

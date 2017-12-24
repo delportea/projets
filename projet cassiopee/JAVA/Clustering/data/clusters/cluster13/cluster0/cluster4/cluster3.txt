@@ -1,0 +1,5 @@
+optimal,control,wake,mechanism,femtocell,heterogeneous,network
+capacity,energy,efficiency,picocell,deployment,lte-a,network
+femtocell,impact,capacity,energy,efficiency,lte-advanced,network
+energy,efficiency,capacity,heterogeneous,network,deployment,lte-advanced
+energy,efficiency,m2m,network,cooperative,key,establishment,system

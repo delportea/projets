@@ -1,0 +1,1 @@
+minimize,energy,consumption,sleep,mode,green,base,station

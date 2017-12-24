@@ -1,0 +1,5 @@
+user,profile,base,access,control,model,architecture
+adaptive,e-learning,environment,base,user,context
+semantic,clustering,user,base,shared,conceptualization,folksonomy
+context,aware,modeling,trust,access,control,base,user,behavior,capability
+privacy,policy,negotiation,user,side,base,p3p,tag,classification

@@ -1,0 +1,1 @@
+kungfuvisor,enable,hypervisor,self-defense

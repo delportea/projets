@@ -1,0 +1,3 @@
+multi-modal,non-intrusive,sleep,pattern,recognition,elder,assistive,environment
+non-intrusive,sleep,pattern,recognition,elder,assistive,environment
+aircraft,classification,low,resolution,infrare,sensor

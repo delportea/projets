@@ -1,0 +1,2 @@
+parallel,progressive,hierarchical,turbo,code
+serial,progressive,hierarchical,turbo,code

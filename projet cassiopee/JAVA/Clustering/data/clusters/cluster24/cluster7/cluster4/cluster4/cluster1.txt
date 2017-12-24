@@ -1,0 +1,5 @@
+situation-aware,user,interest,prediction,query,enrichment
+prediction,extention,half,cycling,dynamic,bandwidth,allocation,epon
+half,cycling,dynamic,bandwidth,allocation,prediction,epon
+robustness,adaptive,narrowband,beamform,respect,bandwidth
+design,tdd,joint,uplink,downlink,resource,allocation,ofdma,wimax

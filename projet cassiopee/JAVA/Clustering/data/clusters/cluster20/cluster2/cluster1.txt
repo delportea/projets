@@ -1,0 +1,9 @@
+1.54,mu,inas/inp,p-type,doped,quantum-dash,dfb,laser,isolator-free,operation
+optical,feedback,tolerance,quantum-dot,quantum-dash,semiconductor,laser,operate,1.55,mu,956
+feedback-resistant,p-type,doped,inas/inp,quantum-dash,distribute,feedback,laser,isolator-free,gb/s,transmission,1.55,mu,956
+temperature,dependence,dynamic,property,tolerance,optical,feedback,high-speed,1.3,mu,dfb,quantum-dot,laser
+1.54,mu,956,inas/inp,p-type,doped,quantum-dash,dfb,laser,isolator-free,operation
+steady-state,behavior,semiconductor,laser,diode,subject,arbitrary,level,external,optical,feedback
+optical,feedback,tolerance,quantum-dot,quantum-dash,semiconductor,laser,operate,1.55,mu
+feedback-resistant,p-type,doped,inas/inp,quantum-dash,distribute,feedback,laser,isolator-free,gb/s,transmission,1.55,mu
+temperature,dependence,dynamic,property,tolerance,optical,feedback,high-speed,1.3,dfb,quantum-dot,laser

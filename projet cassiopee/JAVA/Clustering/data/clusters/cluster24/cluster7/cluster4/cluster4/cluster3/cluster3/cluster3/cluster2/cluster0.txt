@@ -1,0 +1,3 @@
+reduce,collision,probability,shared,medium,variational,method
+id,cryptography,definition,eap,authentication,method
+eap-ehash,authentication,method,adapt,resource,constrain,terminal

@@ -1,0 +1,12 @@
+ims,distribute,multimedia,conference,service,lte
+paas,element,host,service,application
+qoc-aware,location,service
+intelligent,environment,service
+compose,service,music
+secure,email,service,future,internet
+semi-flooding,location,service
+communication,service,provider
+rfid,service,non-rfid,enable,device,embedded,hardware,implementation
+multistandard,gnss,receiver,continuity,position,service
+secure,peer-to-peer,backup,service,great,autonomy,supervision,provider
+flexible,service,selection,execute,virtual

@@ -1,0 +1,2 @@
+analysis,photonic-crystal,lom,structure,engrave,ti,er,linbo3,waveguide,1.55,mu,emission
+analysis,photonic-crystal,lom,structure,engrave,ti,er,linbo3,waveguide,1.55,emission

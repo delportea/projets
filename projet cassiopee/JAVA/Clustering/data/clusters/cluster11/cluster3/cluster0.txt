@@ -1,0 +1,4 @@
+adaptable,client-server,architecture,mobile,multi-player,game
+one-node,mobile,architecture,qos,control
+netlnf,mobile,node,architecture,mobility,management,base,lisp
+make,mobile,service,architecture

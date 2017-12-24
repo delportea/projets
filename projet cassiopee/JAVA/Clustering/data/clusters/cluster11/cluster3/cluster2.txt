@@ -1,0 +1,6 @@
+geeair,universal,multimodal,remote,control,device,home,appliance
+ufa,ultra,flat,architecture,high,bitrate,service,mobile,network
+performance,implementation,ufa,sip,ultra,flat,mobile,network,architecture
+xpacml,extensible,privacy,access,control,markup,language
+architecture,design,network,information,mobile,node
+qos,differentiation,initial,bandwidth,request,range,ieee802,.16

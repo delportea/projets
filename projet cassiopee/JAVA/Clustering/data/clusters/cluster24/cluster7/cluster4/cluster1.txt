@@ -1,0 +1,3 @@
+probabilistic,matching,pair,selection,surf,person,re-identification
+rori,countermeasure,selection,orbac,formalism
+multi-shot,surf,person,re-identification,sparse,representation

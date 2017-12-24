@@ -1,0 +1,2 @@
+etom,business,process,conception,ngn,monitoring
+existence,arch,infini,process

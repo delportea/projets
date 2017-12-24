@@ -1,0 +1,16 @@
+evaluation,p4p,base,real,traffic,measurement
+investigate,city,characteristic,base,community,profiling,lbsn
+quantitative,model,user,preference,base,qualitative,specification
+fuzzy,logic,base,context-aware,reminder,elder,mild,dementia
+particle,swarm,optimization,base,fusion,infrared,visible,image,improve,face,verification
+formal,context,coverage,base,isolate,label,efficient,solution,text,feature,extraction
+wavelength-selective,ti,linbo3,multiple,y-branch,coupler,base,focused,ion,beam,mill,bragg,reflector
+reference,base,contrast,function,semi-blind,context
+lattice,base,authentication,low-cost,rfid
+semantic,information,model,base,privacy,legislation
+repeater,base,indoor,position,summary,experimental,campaign,measurement
+frame,base,gaussian,beam,bounce
+process,socio,space,discovery,base,semantic,log
+gaussian,beam,launch,base,frame,decomposition,3d,spectral,partition
+id,base,cryptography,secure,cloud,datum,storage
+combined,svm/hcrf,model,activity,recognition,base,stip,trajectory
