@@ -1,0 +1,5 @@
+read,business,card,smart,social,contact,management,system
+personalisation,system,combine,pervasiveness,social,networking
+organize,contact,empirical,study,intelligent,social,management,system
+system,web,widget,discovery,semantic,distance,user,intent,social,tag
+user-centric,personalisation,next-generation,persuasive,healthcare,system

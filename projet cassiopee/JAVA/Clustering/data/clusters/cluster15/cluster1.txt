@@ -1,0 +1,2 @@
+self-organization,mechanism,cold,chain,monitoring,system
+generic,audio,identification,system,radio,broadcast,monitoring,base,data-driven,segmentation

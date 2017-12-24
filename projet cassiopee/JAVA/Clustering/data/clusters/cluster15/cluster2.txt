@@ -1,0 +1,2 @@
+mixed,learning,strategy,pervasive,system,workplace
+fsm,test,derivation,strategy,system,time-out
