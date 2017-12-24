@@ -1,0 +1,14 @@
+cooperative,communication,wireless,sensor,network,mac,protocol,solution
+hybrid,mac,prioritization,wireless,sensor,network
+dynamic,aggregation,protocol,wireless,sensor,network
+dynamic,middleware,wireless,sensor,network
+isensor,middleware,dynamic,sensor,network
+dynamic,aggregation,prototocol,wireless,sensor,network
+sensor-ostr,energy-efficient,dynamic,tdma,frame,size,mac,protocol,wireless,multi-hop,sensor,network
+wireless,multicast,cost,sharing,game,dynamic,population
+shot,slot,tdma,reservation,mac,protocol,wireless,ad,hoc,network
+priority,hybrid,mac,energy,efficiency,wireless,sensor,network
+detect,aircraft,low-resolution,infrared,sensor
+dynamic,data-centric,storage,long-term,wireless,sensor,actor,network
+overlay,multicast,protocol,proxy,district,dynamic,wireless,sensor
+smart,wireless,design,scheme,fuzzy-logic,route,tdma,mac,protocol,integration

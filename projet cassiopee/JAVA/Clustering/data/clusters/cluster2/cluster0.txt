@@ -1,0 +1,13 @@
+robust,efficient,route,wireless,mesh,network,unreliable,node
+improve,route,reliability,wireless,sensor,network,emergency,path
+bgp,skeleton,alternative,ibgp,route,reflection
+route,manipulation,attack,wireless,mesh,network
+link,quality,local,load,balance,route,mechanism,wireless,sensor,network
+topology,control,route,large,scale,wireless,sensor,network
+fractional,route,pair,failure-disjoint,path
+multipolar,route,dynamic,static,meet
+adaptive,robust,stable,route
+add,dynamism,robust,stable,route
+openroute,multi-operator,cooperative,route,maximally,disjoint,path,survivability,wireless,backhaul
+onion,route,circuit,construction,latency,graph
+volume-oriented,route,modification
