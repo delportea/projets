@@ -1,0 +1,17 @@
+qos-oriented,resource,allocation,streaming,flow,ieee802,.16,mobile,wimax
+identify,logical,location,gps-enabled,mobile,phone,wearable,camera
+situation-aware,adaptive,recommendation,assist,mobile,user,campus,environment
+activity,recognition,accelerometer,embedded,mobile,phone,vary,position,orientation
+physical,activity,monitoring,mobile,phone
+light-weight,ip,multimedia,subsystem,im,client,mobile,device
+groupme,support,group,formation,mobile,sense,social,graph,mining
+memphone,personal,memory,aid,community,share,mobile,tagging
+implement,enterprise,business,context,model,define,mobile,broadband,policy
+control,enterprise,context,session,policy,map,mobile,broadband,rule
+predict,mobile,phone,user,location,exploit,collective,behavioral,pattern
+on-line,signature,verification,mobile,platform
+impact,lte,dvb-ngh,cooperation,qo,mobile,tv,user
+wallet-on-wheel,vehicle,identity,secure,mobile,money
+quality-assured,sociality-enriched,multimedia,mobile,mashup
+density,admission,control,ieee802,.16,mobile,wimax
+user-centric,context-aware,mobile,assistant
