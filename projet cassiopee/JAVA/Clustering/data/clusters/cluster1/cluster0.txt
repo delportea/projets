@@ -1,0 +1,10 @@
+assess,service,protocol,adaptability,base,reduction,graph,search
+approach,formal,verification,mediation,protocol,base,web,service
+assessment,service,protocol,adaptability,base,walk,computation
+approach,formal,verification,mediation,protocol,base,web,service,mde,type
+dynamic-address-allocation,base,scalable,route,protocol,context,node,mobility
+formal,validation,methodology,manet,route,protocol,base,node,similarity
+performance,manet,mobility,pattern,route,protocol,improvement,base,fix,relay,node
+secure,e-passport,protocol,base,biometric
+dynamic,service,deployment,distribute,heterogeneous,cluster,base,router,dhcr
+multi-biometric,base,crypto-biometric,session,key,generation,share,protocol
