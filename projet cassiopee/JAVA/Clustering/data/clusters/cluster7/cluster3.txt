@@ -1,0 +1,16 @@
+xml,archive,testing,benchmark,guessxq
+eventual,alpha,partition-participant,detector,manet
+solution,partitionable,group,membership,manet
+integration,corporate,security,strategy,collaborative,business,process
+testing,interoperability,security,policy
+inrob,approach,testing,interoperability,robustness,real-time,embedded,software
+component,base,testing,technique,manet,route,protocol
+requirement,engineering,automatic,security,policy,derivation,process
+fsm,conformance,testing,method,survey,annotated,experimental,evaluation
+cost,effective,cross-layer,protocol,testing,case,study
+challenge,advanced,security,monitoring,massif,project
+invariant,property,evaluate,result,fault-injection,robustness,testing,protocol,implementation
+interoperability,testing,manet,route,protocol,node,self-similarity,approach
+node,similarity,approach,interoperability,testing,ad,hoc,route,protocol
+security,protocol,testing,attack,tree
+datamonitor,formal,approach,passively,test,manet,route,protocol
