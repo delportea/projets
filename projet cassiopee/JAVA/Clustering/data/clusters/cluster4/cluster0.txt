@@ -1,0 +1,10 @@
+dynamic,component,selection,sca,application
+context-aware,component
+monitoring,non-functional,requirement,dynamic,transformation,component
+adapt,abstract,component,application,adaptation,pattern
+reusable,component,communication,datum,synchronization,mobile,distribute,interactive,application
+cadecomp,context-aware,deployment,component,application
+second-order,statistics,evd,sample,covariance,matrix,application,detection,noncircular,or/and,nongaussian,component
+minimum-weight,subgraph,unicyclic,component,lower-bounded,girth
+develop,adapter,structural,adaptation,component,application
+isp,offload,infrastructure,minimize,cost,time,deployment

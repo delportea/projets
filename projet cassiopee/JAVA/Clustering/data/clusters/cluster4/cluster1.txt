@@ -1,0 +1,4 @@
+web,base,framework,rapid,integration,enterprise,application
+theme,issue,context-aware,middleware,application
+cooperative,programming,framework,context-aware,application
+decouple,context,management,application,logic,framework
