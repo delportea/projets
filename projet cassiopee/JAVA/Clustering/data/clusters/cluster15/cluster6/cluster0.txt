@@ -1,0 +1,6 @@
+architecture,design,cross-domain,context,management,system
+scalability,issue,design,implement,semantic,provenance,management,system
+design,efficient,fusion,scheme,multimodal,biometric,system,face,palmprint
+design,implementation,usage,analysis,event,consumer,mashup,system
+design,rating,function,3gpp,online,charge,system,ip,multimedia,subsystem
+efficient,implementation,openmp,distribute,memory,system,cape,discontinuous,incremental,checkpointing

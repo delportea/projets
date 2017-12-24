@@ -1,0 +1,2 @@
+handle,conflict,context-aware,remind,system,sensorised,home
+task,support,system,cbr,approach,smart,home
