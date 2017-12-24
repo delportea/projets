@@ -1,0 +1,6 @@
+h2bsap,hop-by-hop,broadcast,source,authentication,protocol,wsn,mitigate,attack
+attack,script,generation,security,validation
+all-numerical,implementation,correlation
+defeat,pharm,attack,client-side
+generate,attack,scenario,validation,security,protocol,implementation
+protocol,evaluate,resistance,template,update,system,zero-effort,attack
