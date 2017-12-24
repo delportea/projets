@@ -1,0 +1,3 @@
+feature,interaction,software,product,line,e-voting
+cdtom,context-driven,task-oriented,middleware,pervasive,homecare,environment
+classification,periodic,activity,wasserstein,distance
