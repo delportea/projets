@@ -1,0 +1,2 @@
+monitoring,sca,application,cloud
+paas-independent,provision,management,application,cloud
