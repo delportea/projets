@@ -1,0 +1,6 @@
+{
+"name": "network",
+"children": [
+{"name": "network", "children":[{"Remplacer par data\clustersclusters/flare.json"}]},
+]
+}
