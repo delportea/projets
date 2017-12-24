@@ -1,0 +1,2 @@
+distribute,approach,secure,m2m,communication
+gaussian,mixture,approach,blind,equalization,block-oriented,wireless,communication
