@@ -1,0 +1,3 @@
+dynamic,user,task,composition,base,preference
+dynamic,link,adaptation,base,coexistence-fingerprint,detection,wsn
+dynamic,dn,update,security,base,cryptographically,generate,address,id,cryptography,ipv6,autoconfiguration,context

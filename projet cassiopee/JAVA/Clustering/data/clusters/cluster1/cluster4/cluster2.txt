@@ -1,0 +1,2 @@
+query,learn,route,approach,base,semantic,cluster
+efficiency,benefit,load-balancing,link,reliability,base,route,wsn

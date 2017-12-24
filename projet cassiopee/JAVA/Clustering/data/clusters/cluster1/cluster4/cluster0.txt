@@ -1,0 +1,9 @@
+automatic,approach,ontology,evolution,base,stability,evaluation
+global,measure,approach,base,ontology,spectrum,evaluate,enrichment
+fuzzy-msom,fuzzy,clustering,approach,base,neural,network
+multipath,effect,gnss,repeater,base,approach,track,loop,discriminator,impact,mitigation
+gnss,repeater,base,approach,indoor,positioning,current,status
+vector,base,model,approach,define,trust,multi-organization,environment
+combination,approach,select,optimal,countermeasure,base,rori,index
+individual,countermeasure,selection,base,return,response,investment,index
+ranking,select,association,rule,base,dominance,relationship
