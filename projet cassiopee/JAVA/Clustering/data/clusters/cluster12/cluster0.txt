@@ -1,0 +1,3 @@
+tight,bind,length,distinguish,sequence,non-observable,nondeterministic,finite-state,machine,polynomial,number,input,output
+robust,route,optimal,partitioning,traffic,demand,polytope
+polynomial,traffic,demand,polytope,partitioning
