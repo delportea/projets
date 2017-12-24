@@ -1,0 +1,4 @@
+traffic,domination,communication,network
+find,failure-disjoint,path,diversity,protection,communication,network
+secure,communication,multicapacity,device,authentication,support,network,operator
+reduce,overhead,intra-cluster,inter-cluster,sensor-to-actor,communication,ieee,802.15.4,network

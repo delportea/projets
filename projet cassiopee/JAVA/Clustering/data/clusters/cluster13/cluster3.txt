@@ -1,0 +1,8 @@
+detect,overlap,community,location,social,network
+iris,method,direct,trust,computation,generate,social,network
+cross-domain,vulnerability,social,network
+3.0,spontaneous,social,networking,challenge,network
+socp2p,p2p,content,discovery,enhancement,social,network,characteristic
+constrained-path,computation,algorithm,failure,recovery,cac,gmpl,optical,network
+tison,trust,inference,computation,online,social,network
+dissemination,competition,contents,lossy,susceptible,infected,sis,social,network

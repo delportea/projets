@@ -1,0 +1,11 @@
+resource,allocation,route,mimo-wpm,cognitive,radio,ad-hoc,network
+estimate,file-spread,delay,tolerant,network,two-hop,route
+sbrm,score,route,mechanism,vehicle,ad,hoc,network
+energy,aware,database,update,protocol,autoconfigurable,sensor,network
+quantative,evaluation,cost,route,protocol,olsr,vehicle,ad,hoc,network,vanet
+study,effect,route,guidance,algorithm,protocol,vehicular,network
+dynamic,risk-aware,route,ospf,network
+broadcast,directional,route,vehicular,ad-hoc,network
+multi-service,mac,protocol,multi-channel,csma/ca,ieee,802.11,network
+route,guidance,algorithm,maximum,coverage,minimum,handover,vehicular,network
+efficient,peer-to-peer,semantic,overlay,network,learn,query,route

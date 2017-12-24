@@ -1,0 +1,9 @@
+summary,sensor,datum,vehicular,ad,hoc,network
+summarize,sensor,datum,vehicular,ad,hoc,network
+ad,hoc,node,design,secure,service,deployment,network
+extend,ad,hoc,horizon,dense,802.11,network,fountain,code
+platform,experimentation,secure,service,location,p2p/client,server,ad,hoc,network
+statistical,learning,automated,healing,application,mobility,3g,lte,network
+trustful,authentication,key,exchange,scheme,ad,hoc,network
+vehicle,ad,hoc,network,application,related,technical,issue
+aggregation,issue,time,slotted,packet,ring,network

@@ -1,0 +1,13 @@
+document,provenance,cloud,constraint,challenge
+automatic,3d,localisation,system,propagation,position,connected,network
+network,unicyclic,connected,component,short,cycle
+steiner,network,unicyclic,connected,component
+design,steiner,network,unicyclic,connected,component,easy,problem
+cloud,networking,field,game
+vespa,multi-layered,self-protection,cloud,resource
+challenge,cloud,networking,security
+move,cloud,vision,collaborative,delivery,open-iptv
+constrain,pricing,cloud,resource,allocation
+network,unicyclic,connected,component
+multi-layer,autonomic,isolation,cloud,computing,networking,resource
+self-defending,cloud,myth,reality
