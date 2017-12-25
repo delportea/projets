@@ -1,0 +1,1346 @@
+aircraft classification low resolution infrare sensor
+multipath insensitive delay lock loop gnss receiver
+current city '' prediction coarse location base application facebook
+read '' business card smart social contact management system
+oodles datum mining moodle understand student behaviour
+1.54 mu inas/inp p-type doped quantum-dash-based dfb laser isolator-free operation
+1.54 mu 956 inas/inp p-type doped quantum-dash-based dfb laser isolator-free operation
+2d real-time arithmetic operation optical coherence property image processing application
+3ris 4g approach increase availability reduce cost lte network
+future-proof '' postgraduate software engineering programme maintainability issue
+bayesian filter algorithm jump-markov system application track-before-detect
+bayesian track-before-detect procedure passive radar
+bound histogram approach network performance analysis
+history evolution local infrastructure base gnss indoor positioning system pseudolite repealite repeater
+case-driven ambient intelligence system elderly in-home assistance application
+cluster-based peer-to-peer architecture cloud-based smart home
+collaborative-based approach context-aware service provision smart environment
+combined svm/hcrf model activity recognition base stip trajectory
+comparison feature extraction approach offline signature verification
+component base testing technique manet route protocol
+comprehensive framework context-aware communication service
+conformance passive testing approach manet route protocol
+context-aware information model elderly homecare service smart home
+contextual-bandit algorithm mobile context-aware recommender system
+cooperative scheme aggregate spatio-temporal event vanet
+cross-layer design base geographic information cooperative wireless network
+decentralize mediation-as-a-service architecture service composition
+distribute autonomic virtual network map framework
+distribute approach secure m2m communication
+distribute intrusion detection scheme wireless ad hoc network
+distribute link quality base d-clustering protocol dense zigbee sensor network
+distribute memory multilevel fast physical optics algorithm
+distribute virtual network map algorithm
+dual approach detect pharm attack client-side
+dynamic approach consistency management mobile multiplayer game
+dynamic community creation mechanism opportunistic mobile social network
+event-based packet drop detection scheme wireless mesh network
+fault injection tool testing web service composition
+myth telco ott model
+fine-grain approach evaluate quality context
+fixed-lag particle smoother blind siso equalization time-varying channel
+fixed-lag particle smooth algorithm blind turbo equalization time-varying channel
+flexible dynamic system automatic grading programming exercise
+flexible service selection execute virtual service
+formal approach interoperability testing security rule
+formal approach specification verification fault injection process
+formal data-centric approach passive testing communication protocol
+formal distribute network monitor approach enhance trust management system
+formal framework integrate time security rule tefsm-based system specification
+formal passive performance testing approach distribute communication system
+formal passive testing approach check real time constraint
+formal passive testing approach test manet route protocol
+formal validation methodology manet route protocol base node similarity
+framework modeling testing web service orchestration
+framework monitoring reconfiguration component dynamic transformation
+framework quality context management
+framework social device networking
+framework describe search virtual resource object
+framework ibc achieve non-repudiation privacy vehicular network
+free collision distribute slot assignment algorithm wireless sensor network
+fuzzy logic base context-aware reminder elder mild dementia
+gaussian beam re-expansion scheme fast physical simulation large environment
+gaussian beam shooting algorithm radar propagation simulation
+gaussian mixture approach blind equalization block-oriented wireless communication
+gaussian sum approach blind carrier phase estimation datum detection turbo code transmission
+general algebraic algorithm blind extraction source mimo convolutive mixture
+generic audio identification system radio broadcast monitoring base data-driven segmentation
+generic framework service-based business process elasticity cloud
+generic layer model context-aware communication adaptation
+geometric characterization optimality-equivalent '' relaxation
+gradient-based randomised heuristic maximum cut problem
+graph-based approach ad hoc task composition user preference device capability
+graph-based context modeling approach
+high-level service composition model building application sensor network
+highly birefringent photonic crystal fiber base nonlinear thesholding device ocdma receiver
+hybrid authentication key establishment scheme wban
+hybrid mac prioritization wireless sensor network
+joint aoa aod delay estimation multipath signal base beamform technique
+joint decode-and-forward strategy physical network code base factor graph
+joint model ieee 802.15.4 physical medium access control layer
+lattice base authentication low-cost rfid
+logic-based passive testing approach validation communicate protocol
+mediator-based system distribute semantic provenance management system
+metadata-based approach multimedia service mashup ims
+middleware architecture autonomic software deployment
+mixed gm/smc implementation probability hypothesis density filter
+mixed learning strategy pervasive learning system workplace
+model drive approach qoc-awareness ubiquitous application
+model resource specification mobile service
+model boot-up storm dynamics
+model-based attack injection approach security validation
+modify belief propagation algorithm code word quantization
+multi-layer architecture wireless sensor network virtualization
+multi-service mac protocol multi-channel csma/ca ieee 802.11 network
+multicast architecture audioconference make sip extension conference server
+multipath route strategy prevent flooding disruption attack link state route protocol manet
+nash stackelberg approach network pricing revenue maximization vertical handover decision make
+nash-stackelberg multiplicative weighted imitative codipas-rl scheme datum relay handover management wireless network
+network-controlled architecture sctp hard handover
+neural-based approach extend olap prediction
+adapt back-off scheme broadcast ieee 1609.4 control channel vanet
+bayesian approach textured image segmentation turbo segmentation
+energy efficient interface selection mechanism power saving multi-interface mobile terminal
+method kurtosis maximization source separation
+model multicommodity flow problem strongly polynomial algorithm single-source maximum concurrent flow
+multicast architecture base sip extension group management
+optimization method reference-based quadratic contrast function deflation scenario
+particle filter algorithm structurally optimal importance function
+proposal reliable unicast multicast transport delay tolerant network
+protocol multi-biometric system evaluation maintain dependency biometric score
+protocol evaluate resistance template update system zero-effort attack
+reliable transport scheme delay tolerant network base acknowledgment random linear coding
+trust management model p2p system
+zlgorithm fuzzy clustering find optimal number cluster
+node similarity approach interoperability testing ad hoc route protocol
+asymptotical analysis optimal sir algorithm vs. fully adapt auxiliary particle filter
+approach make energy efficient pon
+approach analysis distribute partially proton-exchanged ti linbo3 waveguide
+architecture secure datum delivery internet
+crypto-biometric scheme establish secure communication session client
+dynamic bandwidth allocation algorithm base half cycling epon
+global measure approach base ontology spectrum evaluate ontology enrichment
+ring architecture multiple optical private network epon ocdma technique
+route guidance algorithm maximum coverage minimum handover vehicular network
+trust-based authentication scheme low-resource device smart environment
+p2p implementation high availability web service
+p2p platform collaborative aggregated multimedia share
+p2p-based middleware wide-area service discovery
+particle smoothing implementation fully-adapted auxiliary particle filter alternative auxiliary particle filter
+passive conformance testing approach manet route protocol
+passive testing approach protocol internet thing
+passive testing approach security checking practical usage web service monitor
+pattern-based adaptation abstract application pervasive environment
+performance comparison accord number wavelength topology pcsa reservation mechanism ob
+performance comparison ops variable-size packet ob
+performance view dnssec migration
+personalized recommender system base user information folksonomy
+pervasive multi-sensor datum fusion smart home healthcare monitoring
+policy-based approach resource specification small device
+policy-based framework autonomic reconfiguration management heterogeneous network
+polynomial-time recursive algorithm unconstrained quadratic optimization problem
+prediction base mobility extension ehip protocol
+prediction extention half cycling dynamic bandwidth allocation epon
+preliminary study dual vote pr voter hybrid system
+profile-based aggregation model peer-to-peer information retrieval system
+proof-based approach detect vulnerability program
+proof-based approach verify reachability property
+quadratic complexity eigenspace technique blind simo channel identification
+quality experience base approach wireless mesh network
+quality service base mobility management heterogenous wireless network
+quantitative model user preference base qualitative specification
+query approach xml query
+query learn route approach base semantic cluster
+recommender system base historical usage datum web service discovery
+recommender system web service discovery distribute registry environment
+reusable component communication datum synchronization mobile distribute interactive application
+review mobility management vertical handover solution heterogeneous wireless network
+robust buffer management packet scheduling algorithm qos optical ingress node
+secure peer-to-peer backup service great autonomy supervision provider
+segmentation method textured image base maximum posterior mode criterion
+self-organization framework wireless ad hoc network small world
+self-organization mechanism cold chain monitoring system
+semantic database framework context management heterogeneous wireless network
+semantic enhance service exposure model converged service environment
+semantic framework management enriched provenance log
+semantic information model base privacy legislation
+semi-exact sequential monte carlo filter algorithm hidden markov chain
+sentiment-enhanced personalized location recommendation system
+service composition model dynamic service creation update ims/web 2.0 converged environment
+service dependency model cost-sensitive intrusion response
+session server architecture mobile distribute virtual environment
+simple finite cut plane algorithm integer program
+solution partial video voice ip session transfer retrieval
+solution synchronization problem interconnected metro access metro core ring network
+spin-based approach detect vulnerability program
+statistical approach test stochastic probabilistic system
+stochastic opinion dynamics model multiple contents
+study social behavior collaborative user generate service
+study effect route guidance algorithm route protocol vehicular network
+survey user generate service
+survey personalized tv ngn service context-awareness
+survey privacy personal information implication federated identity architecture
+system web widget discovery semantic distance user intent social tag
+systematic approach generate precondition application database domain
+systematic approach integrate common time security rule tefsm-based system specification
+tcp delay base mechanism detect congestion internet
+total variation base approach robust consensus distribute network
+triplex-layer base p2p service exposure model convergent environment
+trustful authentication key exchange scheme ad hoc network
+two-layered virtualization overlay system software avatar
+unified session control protocol iptv service
+unique interface web telecom service feed aggregator service aggregator
+universal autonomous positioning system base wireless network connectivity
+user profile base access control model architecture
+user-centric context-aware mobile assistant
+vanilla rao-blackwellization metropolis-hastings algorithm
+vector base model approach define trust multi-organization environment
+web base framework rapid integration enterprise application
+web service recommender system vector space model latent semantic indexing
+access control object description future network information
+access datum wsn
+accuracy strong weak comparison network queue
+achieve small-world property bio-inspired technique wireless network
+active sharing contextual learning experience user personal learning environment peer-to-peer network
+activity recognition accelerometer embedded mobile phone vary position orientation
+adaptable client-server architecture mobile multi-player game
+adaptation audio-visual contents delivery
+adapt abstract component application adaptation pattern
+adaptive datum collection protocol reinforcement learning vanet
+adaptive delay-aware energy efficient tdm-pon
+adaptive importance sampling general mixture class
+adaptive learning vector quantization online parametric estimation
+adaptive prompt base petri net smart medication system
+adaptive resource allocation kalman filter busy idle band wpm-based cognitive radio system
+adaptive user profiling-based context-aware trust model dependent people
+adaptive virtual network provision
+add dynamism robust stable route
+add monitoring reconfiguration facility service-based application cloud
+address context dependency profile context overlay network
+advanced iptv service personalization context-aware content recommendation
+affective-cognition modeling product ecosystem time color petri net
+agent phi tool modeling composite self-adaptive agent
+agent tool modeling composite self-adaptive agent
+aggregation issue time slotted packet ring network
+algorithm formulation minimum cut separator problem
+adaptive e-learning environment base user 's context
+adaptive mitigation framework handle suspicious network flow mpls policy
+advanced approach modeling detect software vulnerability
+agent-based service architecture user profile dynamic share
+algorithm approach bound aggregation multidimensional markov chain
+alternative methodology base spectral analysis direct access ring resonator parameter
+assertions-based approach verify absence property pattern
+authentication scheme ieee 802.11 mesh network rely sakai-kasahara id-based cryptographic algorithm
+automated passive testing approach ims poc service
+automatic service composition model ims/web 2.0 converged environment
+autonomic enum implementation network simulator-2
+eap id-based authentication method wireless network
+eap-ehash authentication method adapt resource constrain terminal
+effective attack detection approach wireless mesh network
+efficient peer-to-peer semantic overlay network learn query route
+efficient scheduling algorithm qos provision wimax network
+efficient tree-based model multicommodity flow problem
+enabler gateway service composition sip
+enhance authenticate key agreement protocol neural network-based model joining-phase mobile environment
+enhance media independent handover framework vertical handover decision make base network reputation
+enhance qos-enabled dynamic bandwidth allocation mechanism ethernet pon
+event-based functionality integration framework
+eventual alpha partition-participant detector manet
+extension ica model latent variable
+id-based authentication scheme ieee 802.11 mesh network
+implicit approach build community web service registry
+integrate bandwidth allocation energy saving fixed-mobile network
+integrated service platform pervasive elderly care
+interval assignment problem resource optimization lte network
+invariant base passive testing approach protocol datum part
+investigation relationship perceive quality-of-experience virtual acoustic environment case 3d audio telephony
+iosts base passive testing approach validation data-centric protocol
+mlpo algorithm fast evaluation focal plane field reflector antenna
+on-demand key establishment protocol manet
+online learning algorithm mixture model deformable template
+ontology base p2p network semantic search
+ontology workflow organizational model mining
+ontology-based model siem environment
+ontology-driven approach model siem information operation swrl formalism
+optimize handover decision heterogenous wireless network
+osgi-based smart taxi service platform
+overview proof-based approach detect vulnerability
+analysis improvement alignment business information system telecom service
+analysis distribute e-voting system architecture quality service requirement
+analysis fountain code base transport 802.11 wlan cell
+analysis photonic-crystal lom structure engrave ti er linbo3 waveguide 1.55 mu emission
+analysis photonic-crystal lom structure engrave ti er linbo3 waveguide 1.55 emission
+analysis information relay processing inter-vehicle communication visit
+analysis max-consensus algorithm wireless channel
+analysis near-field source localization uniform circular array
+analysis publicly disclose information facebook profile
+analysis ratan-600 radio telescope antenna mlpo algorithm
+analysis telecommunication management technology
+analysis template update strategy keystroke dynamics
+analysis influence transmission delay competition tcp tfrc
+analysis olsr protocol formal passive testing
+analysis ratan-600 radiotelescope antenna multilevel physical optics algorithm
+analytical model hsdpa throughput nakagami fading channel
+analyze consumerization enterprise business context determine session policy
+analyze benefit optical transmission system base root raise cosine ps-qpsk flexible channel grid
+antidepressant game smartphone qoe rescue robot
+application-aware cost function performance evaluation scalable video conferencing service heterogeneous network
+apply formal method pcep industrial case study modeling test generation
+approximability 3 4-hop bound disjoint path problem
+approximate placement service-based application hybrid cloud
+architecture design network information mobile node
+architecture iptv content delivery
+qoe requirement multimedia service man woman analysis gender difference form qoe virtual acoustic environment
+assess personal network pan-european testbed
+assess service protocol adaptability base protocol reduction graph search
+assess replaceability service protocol mediated service interaction
+assessment service protocol adaptability base walk computation
+assist business process design activity neighborhood context matching
+asymptotic distribution circularity coefficient estimate complex random variable
+asymptotic distribution glr impropriety complex signal
+asymptotic generalize eigenvalue distribution block multilevel toeplitz matrix
+asymptotic generalize eigenvalue distribution toeplitz block toeplitz matrix
+asymptotic optimal sinr performance bind space-time beamforming
+asymptotic performance analysis pca algorithm base weighted subspace criterion
+asymptotic property maximum likelihood estimation misspecify hidden markov model
+asynchronous distribute principal component analysis stochastic approximation
+atl transformation generation sca model
+attack script generation security validation
+attribute-based mining process organization-based access control model
+authentication protocol runtime evaluation distribute aaa framework mobile ad-hoc network
+authoring reuse scorm learn object
+authoring tool structural semantic coherence validation compose learning object
+automatic 3d localisation system propagation position connected network
+automatic approach ontology evolution base stability evaluation
+automatic detection advertisement radio broadcast data-driven alisp transcription
+automatic task resolution adaptation pervasive environment
+automatic time test case generation web service composition
+autonomic virtual router future internet
+b-planner night bus route planning large-scale taxi gps trace
+bayesian fixed-interval smoothing algorithm singular state-space system
+bayesian multi-object filter pairwise markov chain
+beamforming-based broadcast scheme multihop wireless network transmission range adjustment
+beamspace post-doppler stap ground-based rotate radar system
+belief propagation dykstra 's algorithm iterated information projection
+benefit concurrent spatial spectral analysis photonic component
+organize contact empirical study intelligent social contact management system
+bgp convergence time step continuous connectivity
+bgp skeleton alternative ibgp route reflection
+biosecure signature evaluation campaign bsec 2009 evaluate online signature algorithm depend quality signature
+blind carrier phase estimation datum detection turbo code transmission
+blind estimation detection space-time trellis code transmission rayleigh fading mimo channel
+blind soft-output decoding space-time trellis code transmission time-varying rayleigh fading channel
+blind soft-output equalization block-oriented wireless communication
+blind turbo-detection presence phase noise
+bod algorithm tcp multimedia application dvb-s2 / rcs system
+botnets lifecycle taxonomy
+bound aggregation transient stationary performance analysis subnetwork
+bound technique transient analysis g-network catastrophe
+bound regeneration time limit theorem subgeometric markov chain
+broadcast-based directional route vehicular ad-hoc network
+build user friendly service dashboard automatic non-intrusive chaining widget
+building context-awareness model mobile application
+building identity-based security association provider-provisioned virtual private network
+building ubiquitous qoc-aware application model-driven software engineering
+building virtual network multiple domain
+business information system alignment formal solution telecom service
+business process personalization web widget
+ca3m runtime model middleware dynamic context management
+cache location tree network preliminary result
+cache p2p traffic benefit isp
+cadecomp context-aware deployment component-based application
+calibrate exponential ornstein-uhlenbeck multiscale stochastic volatility model
+chronological information soft biometric keystroke dynamics
+cancelable biometric security privacy biometric system
+capacity energy efficiency picocell deployment lte-a network
+capacity-driven web service concept definition issue solution
+cdtom context-driven task-oriented middleware pervasive homecare environment
+centralized distribute architecture scalable video conferencing service
+cga alternative security credentials ikev2 implementation analysis
+challenge advanced security monitoring massif project
+challenge cloud networking security
+challenge eye segmentation triplet markov spatial model
+challenge lecturer learn teacher 's mistake
+challenge lecturer learn teacher mistake
+channel equalization bandwidth tuning lc-based tunable hybrid birefringent filter
+chcem pou oj kurz moodlu lms claroline . pom mi scorm
+check semantic consistency scorm learn object
+classification periodic activity wasserstein distance
+closed-form expression exact cramer-rao bind parameter estimation bpsk msk qpsk waveform
+cloud networking field game
+cloud service delivery multiple cloud platform
+cloudserv paas resource provision service-based application
+clustering managing datum provide service machine learning technique
+co2 laser-induced crystallization sol-gel-derived indium tin oxide film
+coherent versus incoherent ber evaluation direct sequence ocdma system
+cold chain automation
+collaborative filter technique web service recommendation base user-operation combination
+collaborative handover mechanism real-time service
+collaborative home media community semantic support
+combination approach select optimal countermeasure base rori index
+combine cac force handoff mobile network performability
+combine ontology scenario context-aware e-learning environment
+comfort application vehicular ad hoc network base fountain coding
+community web service registry construction management
+comparison vanet conventional route advanced opportunistic route scheme active signaling
+comparison lte embms dvb-ngh mobile tv solution energy consumption perspective
+competency drive approach current technology enhance learn system
+complementarity process-oriented ontology-based context manager identify situation
+complex ip multimedia application 3gpp ims environment model rate
+compose service service music
+composition frontend user centric approach
+composition context match web service recommendation
+high level critical situation context-aware recommender system
+consistency maximum likelihood estimator general hidden markov model
+constrain closed derivable datum cube
+constrain pricing cloud resource allocation
+consumer mashup end-user perspective acceptance model
+content delivery personalized iptv service peer peer proxy
+context aware quality experience audio-visual service group
+context aware vertical handover decision make heterogeneous wireless network
+context gateway physical space
+context ontology secure interoperability
+context-aware decentralize approach web service
+context-aware iptv
+context-aware route method p2p file share system manet
+context-aware service composition framework web-enabled building automation system
+context-aware system case study
+context-awareness model drive engineering illustration commerce application scenario
+context-awareness model drive engineering illustration e-commerce application scenario
+context-based service recommendation assist business process design
+contrast finesse enhancement birefringent filter
+control enterprise context-based session policy map mobile broadband policy rule
+convergence multi-agent project stochastic gradient algorithm non-convex optimization
+converge web 2.0 telecommunications
+cooperation enforcement packet forwarding optimization multi-hop ad-hoc network
+cooperative communication wireless sensor network mac protocol solution
+cooperative fingerprint-based indoor localization self-organizing map
+cooperative geographic route radio coverage extension ser-constrained wireless relay network
+cooperative relay ofdma network base joint hierarchical modulation link adaptation
+coopgeo beaconless geographic cross-layer protocol cooperative wireless ad hoc network
+copulas selection pairwise markov chain
+cost effective cross-layer protocol testing case study
+coverage-extended cooperative geographic route optimal power allocation wireless multihop network
+cpfp efficient key management scheme large scale personal network
+cp track report 2nd track cyber physical society soa bpm sensor network
+cross-domain vulnerability social network
+cryptographic secrecy steganographic matrix embedding
+current status repealite base approach sub-meter indoor positioning system
+daily sound recognition combination gmm svm home automation
+datum map web service composite daas mediation
+datum provide service clustering management facilitate service discovery replacement
+data-centric property formulation passive testing communication protocol
+datamonitor formal approach passively test manet route protocol
+dcum dynamic creation fixed-size container multiservice synchronous ops ring network
+decentralized link adaptation multi-link mimo interference system
+decisive heuristic differentiate legitimate phish site
+decouple context management application logic framework
+defeat pharm attack client-side
+delay analysis queue-length distribution slotted metro network embedded dtmc
+delay capacity analysis structured p2p overlay ip telephony
+delay capacity analysis structured p2p overlay lookup service
+demo dsm distribute service manager seamless mobility
+dempster-shafer fusion multisensor signal nonstationary markovian context
+demystify link congestion 4g-lte backhaul openflow
+density-based admission control ieee802 .16 mobile wimax
+deploy wireless sensor/actuator network rfid handoff enhancement
+design analysis virtualization framework wireless sensor network
+design evaluation project-based learning ubiquitous platform universal client pbl2u
+design performance analysis cape base discontinuous incremental checkpoint
+design performance evaluation composite-based back end system wsn
+design performance evaluation system store visualize datum sensor network
+design shared-memory model cape
+design implementation evaluation virtual resource description clustering framework
+design-in-play improve variability indoor pervasive game
+designing efficient fusion scheme multimodal biometric system face palmprint
+designing steiner network unicyclic connected component easy problem
+designing rating function 3gpp online charge system ip multimedia subsystem
+detect aircraft low-resolution infrared sensor
+detect control flow smarphone combine static dynamic analysis
+detect overlap community location-based social network
+detect visibility heterogeneous simulated environment position purpose
+detection resolution feature interaction ip multimedia subsystem
+detection attack wireless mesh network
+detection nonlinguistic vocalization unsing alisp sequencing
+deterministic particle filter gps navigation presence multipath
+develop adapter structural adaptation component-based application
+dig-event 's socialize event
+direct versus prediction-based particle filter algorithm
+direct vs. indirect sequential monte-carlo filter
+direct prediction smoothing-based kalman particle filter algorithm
+direct prediction-based smoothing-based particle filter algorithm
+direction finding antenna array randomly located source
+discontinuous incremental approach extremely lightweight checkpoint
+discover profile overlap community location base social network
+discover anomaly semantic web rule
+dissemination competition contents lossy susceptible infected susceptible sis social network
+distribute convex stochastic optimization constraint large network
+distribute estimation maximum wireless sensor network
+distribute stochastic approximation price non-double stochasticity
+distribute stochastic learning continuous power control wireless network
+distribute transmit beamform 1-bit feedback los-miso channel
+divide share approach optimize backup resource allocation lte mobile network backhaul
+dnib distribute neighborhood information base tdma scheduling wireless sensor network
+do-it-yourself creation pervasive tangible application
+document provenance cloud constraint challenge
+location daily activity recognition
+double filter function combined bragg grating
+downlink scheduling network mimo two-stage channel state feedback
+dual vote user interface e-voting system
+dualvote address usability verifiability issue electronic voting system
+dumbo ii v-2-i emergency network
+dynamic aggregation protocol wireless sensor network
+dynamic aggregation prototocol wireless sensor network
+dynamic component selection sca application
+dynamic data-centric storage long-term storage wireless sensor actor network
+dynamic dns update security base cryptographically generate address id-based cryptography ipv6 autoconfiguration context
+dynamic link adaptation base coexistence-fingerprint detection wsn
+dynamic reduction rollback wireless multi-user virtual environment
+dynamic risk-aware route ospf network
+dynamic service deployment distribute heterogeneous cluster base router dhcr
+dynamic signature representation minimum jerk principle
+dynamic user task composition base user preference
+dynamic-address-allocation base scalable route protocol context node mobility
+e2e optimize ipsec architecture secure fast offload
+ecosystem customer experience assurance
+ecousin enhance content distribution social information
+editorial multidimentionnalit passage echelle ''
+effect depth etching bragg reflector realize focused ion beam ti linbo3 waveguide
+effective elliptic fitting iris normalization
+efficiency benefit load-balancing link reliability base route wsn
+efficient identity base authentication ims base service access
+efficient ip mobility management green optical wireless converged access network
+efficient mobile ip location update mechanism idle terminal optical wireless integrated access network
+efficient physical layer security ldr sensor network
+efficient time synchronization mechanism wireless multus hop network
+ehip early update host identity protocol
+em ice hidden triplet markov model
+enable internetworking onus epon ocdma technique
+enable user privacy identity management system
+enable user-oriented management ubiquitous computing meta-design approach
+end-to-end performance evaluation interconnected optical multi-ring metropolitan network
+energy aware database update protocol autoconfigurable sensor network
+energy efficiency capacity heterogeneous network deployment lte-advanced
+energy efficiency m2m network cooperative key establishment system
+energy efficient scheme large scale wireless sensor network multiple sink
+energy efficient shared wdm-pon
+energy efficient vm scheduling cloud datum center exact allocation migration algorithm
+energy saving base station pool signaling framework
+energy-aware fast handoff rely wireless sensor/actuator network rfid
+enforce trust-based intrusion detection cloud computing algebraic method
+engineering distribute e-voting system architecture meeting critical requirement
+engineering process capacity-driven web service
+enhancing broadcast vehicular communication beamform technique
+enhancing exist communication service context-awareness
+enhancing m2m communication cloud-based context management
+enhancing spontaneous interaction opportunistic mobile social network
+enpa ebpa model primary user activity base power allocation cognitive system
+enriched iptv service personalization
+enriched scim service composition ims environment
+enrich ontology folksonomy elearning dbpedia case
+enrich dbpedia ontology shared conceptualization folksonomy
+ensure customise transactional reliability composite service
+ensure low cost authentication privacy preservation federated ims environment
+ergodicity observation-driven time series model consistency maximum likelihood estimator
+establish enterprise business context ebc service policy decision mobile broadband network
+estimate file-spread delay tolerant network two-hop route
+estimation qoe video traffic fuzzy expert system
+etom business process conception ngn monitoring
+evalsvc evaluation platform scalable video code transmission
+evaluate energy efficiency onus multiple power level tdm-pon
+evaluate quality web service short survey
+evaluate web service quality finite state model
+evaluation p4p base real traffic measurement
+evaluation simple mutual authentication protocol iso/iec 14443 smart card
+event-based design runtime verification composite service transactional behavior
+evidential network-based multimodal fusion fall detection
+ex-sdf extended service dependency framework intrusion impact assessment
+exact bayesian prediction class markov-switching model
+exact bayesian prediction non-gaussian markov-switching model
+exact bayesian restoration non-gaussian markov-switching tree
+exact bayesian smoothing triplet switching markov chain
+exact calculation optimal filter hidden markov switching long-memory chain
+exact calculation optimal filter semi-markov switching model
+exact fast computation optimal filter gaussian switching linear system
+exact filter smooth markov switching system hide gaussian long memory noise
+exact filter smooth short long memory stochastic switching system
+exact filter conditionally markov switching hide linear model
+exact filter semi-markov jump system
+exact kalman filter pairwise gaussian switching system
+exact optimal filter approximating switching system
+exact smoothing hidden conditionally markov switching chain
+exact smoothing hidden conditionally markov switch linear model
+execute openmp program distribute resource source-to-source transformation tool
+experimental measurement host identity protocol mobile node network
+experimental positioning result repealite base indoor positioning system preliminary 2d result
+experimental study link quality deployment issue wireless sensor network
+exploit multi-modality diversity localization enhancement wifi rfid usecase
+exploration/exploitation trade-off mobile context-aware recommender system
+extend early update host identity protocol movement prediction
+extended interoperability model time system robustness testing
+extended policy automatic service composition ims
+extend ad hoc horizon dense 802.11 network fountain code
+extract social community intelligence digital footprint emerge research area
+failure preventive mechanism ipsec gateway
+fast characterization radiation pattern conformal array antenna presence excitation error
+fast near-field physical optics algorithm
+fast time domain physical optics analysis linear phenomenon large reflector antenna
+feature interaction software product line e-voting
+federation circle trust secure usage digital identity
+feedback-resistant p-type doped inas/inp quantum-dash distribute feedback laser isolator-free gb/s transmission 1.55 mu
+feedback-resistant p-type doped inas/inp quantum-dash distribute feedback laser isolator-free gb/s transmission 1.55 mu 956
+field performance evaluation voip 4g trial
+find failure-disjoint path path diversity protection communication network
+finite state model evaluate web service quality short study
+fireguide context-aware fire response guide building occupant
+experimental performance repealite base indoor positioning system
+step adaptation evidential network datum fusion framework medical remote monitoring
+fixed-interval kalman smoothing algorithm singular state -- space system
+fixed-interval kalman smoothing algorithm singular state space system
+flow-level performance proportional fairness hierarchical modulation ofdma-based network
+follow user 's interest mobile context-aware recommender system hybrid-epsilon-greedy algorithm
+forget initial condition filter general state-space hidden markov chain coupling approach
+forget initial distribution hidden markov model
+forget initial distribution nonergodic hidden markov chain
+formal abstraction compatibility checking web service
+formal context coverage base isolate label efficient solution text feature extraction
+formal method young start
+formal model analysis context dependency ubiquitous system
+formal modeling evaluation service-based business process elasticity cloud
+formal modeling elastic service-based business process
+formal object-oriented development voting system test oracle
+fouille de workflow
+fractional frequency reuse hierarchical resource allocation mobile wimax network
+fractional route pair failure-disjoint path
+frame base gaussian beam bounce
+frame decomposition scatter field
+e-learning u-learning environment
+equipartition uniform cut polytope extend polyhedral result
+ims poc service monitor formal conformance testing
+internet thing embedded intelligence
+workflow model executable web service interface
+fsm-based conformance testing method survey annotated experimental evaluation
+fsm-based test derivation strategy system time-out
+rao-blackwellize rao-blackwellized algorithm jump markov state space system
+fusion iris segmentation quality metric failure detection
+fusion textural statistics similarity measure application texture recognition segmentation
+fuzzy biometric authentication home network personalized user access
+fuzzy-msom fuzzy clustering approach base neural network
+game theoretic framework reputation-based distribute intrusion detection
+gaussian beam divergence effect crosstalk coherence multiplexed system
+gaussian beam launch base frame decomposition 3d spectral partition
+gaussian beam launch 3d physical modeling propagation channel
+gaussian beam shooting algorithm base iterative frame decomposition
+geeair universal multimodal remote control device home appliance
+generalized identifiability condition blind convolutive mimo separation
+generalized model interoperability datum base model drive architecture
+generalized multilevel physical optics mlpo comprehensive analysis reflector antenna
+generating attack scenario system security validation
+generating attack scenario validation security protocol implementation
+geonet geo-networking application
+gesture recognition 3-d accelerometer
+give characterization availability multi-state wireless
+glrt-based array receiver detection signal unknown parameter corrupt noncircular interference
+gnss repeater base approach indoor positioning current status
+google + google dissect evolution osn year
+gps + back-end coupon identification low-cost rfid
+graph-based management community web service registry
+groupme support group formation mobile sense social graph mining
+guessxq inference web-engine query xml document
+h2bsap hop-by-hop broadcast source authentication protocol wsn mitigate dos attack
+hadega mpls-based mitigation solution handle network attack
+half cycling dynamic bandwidth allocation prediction epon
+handle conflict context-aware remind system sensorised home
+handoff management rely rfid technology
+handoff energy awareness future pervasive environment
+hash chain link resynchronization method video streaming security performance comparison
+hep context-aware communication system
+heterogeneous multi-sensor fusion base evidential network fall detection
+hierarchical location service prediction mobile ad-hoc network
+hmm-based gait modeling recognition walk scenario
+hmm-care hide markov model context-aware tag recommendation folksonomy
+host identity protocol proactive mobility management experimentation
+local quality measure improve iris recognition
+design correct
+femtocell impact capacity energy efficiency lte-advanced network
+ims enable converge service cable 3g technology survey
+improve performance delay tolerant network manhattan mobility model
+provide monitoring facility service deploy cloud
+reduce cost passive testing
+human action recognition continuous hmm hog/hof silhouette representation
+human activity recognition support context-appropriate reminder elderly
+hunting wait discover passenger-finding strategy large-scale real-world taxi dataset
+hw/sw partitioning approach embedded system case study iris recognition algorithm
+hybrid multi-channel multi-hop mac vanets
+hybrid sn interlink opportunistic online community augment information dissemination
+hybrid template update system unimodal biometric system
+hybrid-epsilon-greedy mobile context-aware recommender system
+hybridlqi hybrid multihoplqi improve asymmetric link wireless sensor network
+ibat detect anomalous taxi trajectory gps trace
+iboat isolation-based online anomalous trajectory detection
+icross scalable infrastructure cross-domain context management
+id base cryptography secure cloud datum storage
+identify logical location gps-enabled mobile phone wearable camera
+identity forgery disguise
+impact crosstalk capacity performance wdm/ocdma system
+impact fixed-size packet creation timer packet format performance slotted unslotted bus-based optical man
+impact hierarchical modulation proportional fair ofdma-based network
+impact lte dvb-ngh cooperation qos mobile tv user
+impact mobility performance datum flow ofdma-based ieee802 .16 system
+impact nonlinearity disorder slow mode membrane photonic crystal
+implementation community web service registry
+implement enterprise business context model define mobile broadband policy
+improve p2p content discovery exploit user social pattern
+improvement filter function surface bragg grate
+improving adaptive approach e-learning combine ontonlogy cultural-aware user modeling
+improving clustering technique wireless sensor network thin process
+improving energy consumption large scale wireless sensor network multiple mobile sink deployment
+improving energy saving time-division multiplexing passive optical network
+improving learning objects quality learning styles
+improving link prediction intermittently connect wireless network link proximity stability
+improving multicast diffusion lightweight distribute loss estimation adaptive forward error code
+improving particle approximation joint smoothing distribution linear computational cost
+improving performance ad hoc vehicular network lcmv beamformer
+improving performance cape discontinuous incremental checkpointing
+improving protocol validation iosts-based passive testing approach
+improving route reliability wireless sensor network emergency path
+improving transport performance delay tolerant network random linear network code global acknowledgment
+improving video-based iris recognition local quality weighted super resolution
+ims-based distribute multimedia conference service lte
+inas/inp quantum dot base laser effect optical feedback
+inas/inp quantum-dash base laser impact differential gain optical feedback tolerance
+income multi-scale context management internet thing
+individual countermeasure selection base return response investment index
+indoor carrier phase measurement gnss transmitter theory experimental result
+indoor positioning base gps-repeater performance enhancement open code loop architecture
+indoor positioning gps transmitter experimental result
+industrialise proof-based verification approach computerised interlocking system
+infer user search intention base situation analysis physical world
+innovation current technology enhance learn system
+inqa management project qos architecture ims
+inrob approach testing interoperability robustness real-time embedded software
+ins gnss fusion enhancement base weighted reliability approach
+integrate identity-based cryptography ims service authentication
+integrate rfid wlan indoor positioning ip movement detection
+integration rfid wireless sensor network supply chain management system
+inter intra cloud networking gateway service
+interference mitigation repeater pseudolite indoor positioning system
+internet thing smart object ubiquitous network human object
+interoperability reuse system elearning
+interoperability testing manet route protocol node self-similarity approach
+interoperability testing presence service ims platform
+introduction special issue papers uml fm 2011
+introduction special issue intelligent system activity recognition
+introduction uml formal method
+inversion polynomial system separation nonlinear mixture finite-alphabet source
+investigate city characteristic base community profiling lbsn
+investigate reaction bittorrent content publisher antipiracy action
+iptv service personalization context-awareness
+iris method direct trust computation generate trust social network
+iris base authentication mechanism e-passport
+isensors middleware dynamic sensor network
+isp offload infrastructure minimize cost time deployment
+iterative mitigation intercell interference cellular network base gaussian belief propagation
+itu-t standardization energy saving ngn connected object
+j3gen prng low-cost passive rfid
+joint binary image deconvolution blur identification context two-dimensional storage channel
+joint channel estimation decode trellis-coded mimo two-way relay network
+joint uplink downlink admission control streaming elastic flow cdma/hsdpa system
+joint hierarchical modulation relay ofdma network
+paper classification system evoting machine
+paper 3-colour protocol voting interface requirement engineering case study
+kalman filter approximation triplet markov gaussian switching model
+kedgen2 key establishment derivation protocol epc gen2 rfid system
+key-escrow resistant id-based authentication scheme ieee 802.11 mesh network
+kungfuvisor enable hypervisor self-defense
+land-use classification taxi gps trace
+learning space knowledge generation
+learning style teaching strategy improve scorm learn object quality
+light distribute aaa scheme mobile ad-hoc network
+light simple security solution cold chain supervision
+light-weight ip multimedia subsystem ims client mobile device
+limit theorem weighted sample application sequential monte carlo method
+limitation honeypot/honeynet database enhance alert correlation
+link quality local load balance route mechanism wireless sensor network
+liquid-crystal birefringent filter-based wavelength blocker/channel equalizer reconfigurable optical network
+live internet thing emergence embedded intelligence
+locate prior information wireless indoor localization algorithm
+log-based transactional workflow mining
+long memory base approximation filter linear switching system
+structural characterization sparseness measure frequent closed itemset context
+lower bound computational power optical model computation
+magicphone point interact
+make mobile service architecture
+management semantic description object future internet
+management stateful firewall misconfiguration
+manage customer experience service quality monitoring
+manifesto edge ict fabric
+marginalize particle phd filters multiple object bayesian filter
+marginalize phd filter multi-target filter
+mashup service daily activity end-user perspective design consumer mashup
+mde approach generation verification sca model
+mde dsl tooling effective context management ubiquitous computing
+mdsap simulation tinyo hospital application modeling
+measure social function city region large-scale taxi behavior
+measure quality iris segmentation improve iris recognition performance
+meet warming-up detect common interest conflict participant meeting
+memphone personal memory aid community memory share mobile tagging
+metropolitan optical packet bus-based network packet bursting emulation tdm service
+mhs multimedia system improve medication adherence elderly care
+middleware task resolution adaptation pervasive environment
+millimeter signal generation sensor network application base radio fibre technique
+minimize energy consumption sleep mode green base station
+minimize number igmp report message receiver-driven layered video multicast
+minimum cost maximum flow algorithm dynamic resource allocation cloud
+minimum-weight subgraph unicyclic component lower-bounded girth
+mitigating resource-draining dos attack broadcast source authentication wireless sensor network
+mitigating systemic risk future network
+mobile mixed reality game creator base mpeg-4 bif
+mobile wimax field trial test multimedia performance evaluation
+mobile wireless sensor network mdsap model hospital application
+mobility model user 's realistic behavior mobile ad hoc network
+model checking performance measure bound aggregation
+model checking steady-state reward bound aggregation
+model learn management system datum interchange
+model-driven extraction analysis network security policy
+model adaptive situation accord context learn scenario
+model ngn authentication solution improve performance clustering
+modeling managing community web service registry
+modeling testing secure web-based system application industrial case study
+modeling unsupervised classification multivariate hidden markov chain copula
+model content hotness dynamics network
+model context adapt learn scenario adaptweb environment
+model context adapt learn scenario adaptweb ® environment
+model system security rule time constraint time extended finite state machine
+model flow-level performance hierarchical modulation ofdma-based network
+model time constraint inter-organizational workflow
+model user impatience impact impact performance mobile network
+modeling validation verification pcep language
+model performance evaluation improved access mechanism multiservice ops architecture
+model multi-mno business mvno evolution lte volte advanced policy
+monitoring reconfiguration occi resource
+monitoring base iosts testing functional security property application automotive case study
+monitoring non-functional requirement dynamic transformation component
+monitoring sca-based application cloud
+adaptive robust stable route
+move cloud vision collaborative delivery open-iptv
+multi-biometrics base crypto-biometric session key generation share protocol
+multi-channel amplitude equalization base liquid crystal polarization interference filter
+multi-layer realistic voice capacity evaluation lte rel . 9 performance comparison pmr gsm
+multi-modal non-intrusive sleep pattern recognition elder assistive environment
+multi-object filter pairwise markov chain
+multi-shot surf-based person re-identification sparse representation
+multi-variable cost function application layer multicast route
+multicast overlay span tree ad hoc network capacity bound protocol design performance evaluation
+multilevel array decomposition algorithm fast statistical characterization conformal array presence excitation error
+multilevel time domain physical optics linear scattering
+multipath effect gnss repeater base approach . track loop discriminator impact multipath mitigation
+multiple optical private network epon optical cdma technique
+multiplex code real-time optical image processing
+multipolar route dynamic static route meet
+multiservice optical packet switch network modeling performance evaluation qos mechanism mesh slot architecture
+multistandard gnss receiver continuity position service
+communication service provider
+myprofile decentralize user profile identity web
+nap-sc neural approach prediction sparse cube
+navigation information-based proxy server handoff mobile iptv service
+field simulation ratan-600 radio telescope antenna mlpo algorithm
+near-field multilevel physical optics fast analysis multi-reflector antenna
+netlnf mobile node architecture mobility management base lisp mobile node
+network protocol interoperability testing base contextual signature passive testing
+networks unicyclic connected component short cycle
+networks unicyclic connected component
+broadcast base distribute average algorithm wireless sensor network
+design optical filter base photonic crystal
+direction intrusion detection alert correlation
+exact concise representation rare correlate pattern application intrusion detection
+kurtosis optimization scheme miso equalization
+technique indoor positioning combine deterministic estimation method
+trend markov model related learn restore datum
+nonlinear pulse reshape highly birefringent photonic crystal fiber ocdma receiver
+carrier phase estimation scheme polarization switched-qpsk-based transmission system
+constrained-path computation algorithm failure recovery cac gmpls optical network
+photonic crystal design er ti linbo3 waveguide
+numerical investigation performance variability wdm transmission system pdm-qpsk channel
+object identification ubiquitous network
+observability controllability issue conformance testing web service composition
+ocni open cloud network interface
+omc-ids cross-road olap mining intrusion detection
+omie ontology mapping interactive extensible environment
+aaa framework opportunistic ad-hoc network olsr usecase
+bayesian fixed-interval smoothing algorithm
+design tdd joint uplink downlink resource allocation ofdma-based wimax
+hierarchical modulation increase flow-level capacity ofdma-based network
+measure forgery quality online signature
+mobility voice-like datum traffic ieee802 .16
+multihop cluster wireless sensor network
+choice stochastic comparison method multidimensional markov chain analysis
+cramer rao bind maximum likelihood passive time delay estimation complex signal
+degree second-order non-circularity complex random variable
+existence arch infini process
+integration lte mobile wimax network
+minimum cut separator problem
+performance manets mobility pattern route protocol improvement base fix relay node
+quadratic stability descriptor system uncertainty derivative matrix
+relationship belief propagation decoding joint maximum likelihood detection
+second-order statistics evd sample covariance matrix application detection noncircular or/and nongaussian component
+sensitivity spatio-temporal interest point person identity
+id-based cryptography definition eap authentication method
+network qos reputation vertical handover decision make
+traffic domination communication network
+unicyclic graph lower bound girth
+on-line gossip-based distribute expectation maximization algorithm
+on-line signature verification mobile platform
+shot slot tdma-based reservation mac protocol wireless ad hoc network
+step forward link wireless self-organising network validation technique formal testing approach
+year ssl internet measurement
+one-node-based mobile architecture qos control
+onion route circuit construction latency graph
+openflow architecture e-node virtualization
+openroutes multi-operator cooperative route maximally disjoint path survivability wireless backhaul
+opportunistic broadcast vanet ob-van active signaling relay selection
+opportunistic iot explore harmonious interaction human internet thing
+opportunistic iot explore social side internet thing
+optical diffraction simulation technique large multibeam reflector
+optical radio calibration repealite base indoor positioning system
+optical bandpass lyot filter tunable bandwidth
+optical feedback tolerance quantum-dot quantum-dash-based semiconductor laser operate 1.55 mu
+optical feedback tolerance quantum-dot quantum-dash-based semiconductor laser operate 1.55 mu 956
+optical man ring performance traffic aggregation
+optical network today tomorrow
+optical ocdma enhance nonlinear optics
+optical performance bragg grating fabricate ti linbo3 waveguide focused ion beam milling
+optimal code gnss-like signal indoor positioning
+optimal control base station sleep mode energy efficient radio access network
+optimal control wake mechanism femtocell heterogeneous network
+optimal simo mlse receiver detection linear modulation corrupt noncircular interference
+optimal sir algorithm vs. fully adapt auxiliary particle filter matter conditional independence
+optimal sir algorithm vs. fully adapt auxiliary particle filter asymptotic analysis
+optimal widely linear mvdr beamform noncircular signal
+optimality auxiliary particle filter
+optimization coherence multiplexed code high density signal processing
+optimization quality experience file duplication video sharing server
+optimization antenna array geometry base bayesian doa estimation criterion
+optimize antenna array bayesian doa estimation criterion
+orientation-based radio map extension improve position system accuracy
+osif framework instrument validate analyze simulation
+overcome dnssec performance issue dht-based architecture
+overlay multicast protocol proxy district dynamic wireless sensor
+overview deployment redeployment algorithm mobile wireless sensor network
+p2p ip telephony wireless ad-hoc network smart approach super node admission
+paas element host service-based application
+paas-independent provision management application cloud
+packet fill optimization multiservice slotted optical packet switching man network
+pairwise uniformly hide markov field
+pairwise markov model apply unsupervised image separation
+parallel progressive hierarchical turbo code
+parallelization multilevel fast physical optics algorithm application reflector antenna
+partial complete ibgp
+particle filter algorithm track manoeuvring target fm signal
+particle swarm optimization base fusion infrared visible image improve face verification
+partition participant detector dynamic path mobile network
+passive detection tracking maneuver target particle filter technique dvbt broadcasting
+passive testing performance requirement network protocol
+path selection algorithm fault tolerance wireless mesh network
+pbl2u project-based learning ubiquitous platform universal client
+peer peer proxy base iptv service
+peer-to-peer communication provide qos aware system multicast
+peer-to-peer framework rfid/non-rfid reader-enabled user
+peer-to-peer live video streaming mobile ad hoc network
+perception-based application layer multicast algorithm scalable video conferencing
+performance analysis enhance distribute access mechanism multiservice ops architecture
+performance analysis lrt/glrt-based array receiver detection real-valued signal corrupt noncircular interference
+performance analysis glrt-based array receiver detection signal corrupt noncircular interference
+performance analysis mdl criterion detection noncircular or/and nongaussian component
+performance analysis optimal widely linear mvdr beamformer
+performance implementation ufa sip-based ultra flat mobile network architecture
+performance evaluation experiment host identity protocol
+performance evaluation authentication solution ims service access
+performance evaluation biometric template update
+performance evaluation mobile network base stochastic order markov chain
+performance evaluation access metropolitan optical packet switching network interconnection
+performance evaluation video streaming mobile wimax network
+performance limit alphabet diversity fir siso channel identification
+performance virtual synchronization mechanism asynchronous optical network
+performance optical ring architecture variable-size packet in-line buffer semi-synchronous asynchronous transparent mac protocol
+performance study interconnected metro ring network
+performance study obs channel scheduling algorithm multiservice network
+performance study obs reservation protocol
+performances tunable birefringent filter high density multi-wavelength application
+personal overlay network management p2p-based publish/subscribe system
+personalisation system combine pervasiveness social networking
+personalize healthcare self-management social persuasion
+personalize tv service employ context-awareness iptv ngn architecture
+personalize tv service employ context-awareness iptv/ims architecture
+persuasive healthcare self-management intelligent environment
+petri net modeling verification transactional workflow
+physical activity monitoring mobile phone
+planning mobile tv service standalone cooperative dvb-ngh lte network
+platform experimentation secure service location p2p/client server ad hoc network
+policy enable serve untrusted service alternative non-3gpp untrusted access network eps
+polynomial traffic demand polytope partitioning
+precoder design orthogonal space-time block code base cognitive radio polarize antenna
+predict mobile phone user location exploit collective behavioral pattern
+prediction urban human mobility large-scale taxi trace application
+predictive scheme location service mobile ad-hoc network
+prefetch optimize dnssec deployment large resolve platform
+preliminary analysis 4g-lte mobile network share improve resiliency operator differentiation
+price-reward datum relay handover management wireless network
+priority-based hybrid mac energy efficiency wireless sensor network
+privacy aware nomadic service personalize iptv
+privacy policy negotiation user 's side base p3p tag classification
+privacy policy negotiation user side base p3p tag classification
+privacy preservation low cost authentication federated identity management system
+privacy-preserving datum mashup
+probabilistic match pair selection surf-based person re-identification
+process socio space discovery base semantic log
+profile uml2 .0 specification sca architecture
+program analysis evaluation quimera
+programmable context awareness framework
+promote mashup creation unstructured datum extraction
+prompt lifecycle-oriented learning ubicomp application leverage distribute wisdom
+properties compound cavity mode feedback semiconductor laser arbitrary feedback level
+properties performance practical interest widely linear mmse beamformer nonrectilinear signal
+protocol datum part inclusion formal passive testing approach
+protocol distribute aaa framework mobile ad-hoc network
+prototype radio-on-demand broadcast receiver real time musical genre classification
+provide information augmented campus
+prove non-interference reachability property refinement approach
+prove reachability substitution refinement
+prove absence property pattern method
+pseudo-range multipath mitigation technique base subcarrier prn reference code replica
+pseudolites/repeaters infrastructure autoposition approach mathematics simulation-based result
+publication discovery yasa web service
+qocim meta-model quality context
+qoe aware service delivery distribute environment
+qom quality experience framework multimedia service
+qos differentiation initial bandwidth request range ieee802 .16
+qos management ims diffserv model
+qos mapping hybrid optical wireless access network
+qos mobility-aware algorithm early update host identity protocol
+qos-aware device selection user preference task ubiquitous environment
+qos-han qo provision home automate network ieee 802.11
+qos-oriented resource allocation streaming flow ieee802 .16 mobile wimax
+quality drive iris recognition improvement
+quality experience selection criterion web service
+quality experience audio-visual service
+quality-assured sociality-enriched multimedia mobile mashup
+quantative evaluation cost route protocol olsr vehicle ad hoc network vanet
+quantitative qualitative assessment qoe multimedia service wireless environment
+quaternary sequence comparison modeling optical dqpsk dispersion manage transmission system
+ranking select association rule base dominance relationship
+real implementation optimised tracking loop multipath mitigation case repeater base indoor positioning system
+real time anomalous trajectory detection analysis
+real-time detection anomalous taxi trajectory gps trace
+real-time malicious fast-flux detection dns bot related feature
+realization fabry-p erot cavity focused ion beam milling
+recursive bayesian filter multitarget track-before-detect passive radar
+redeploy mobile wireless sensor network virtual force
+redeployment randomly deploy wireless mobile sensor node
+redex receiver diversity exploitation mechanism 802.11 wireless network
+reduce overhead intra-cluster inter-cluster sensor-to-actor communication ieee 802.15.4 network
+reduce collision probability shared medium variational method
+reference base contrast function semi-blind context
+regulative wavelength grouping approach qos obs networks
+reliable opportunistic broadcast vanet r-ob-van
+repeater base indoor position summary experimental campaign measurement
+resolving ten mvno issue eps architecture volte advance policy server
+resource allocation route mimo-wpm cognitive radio ad-hoc network
+resource provision local public cloud internet thing
+retrovisor nested virtualization multus iaas vm availability
+rf subsampling gnss receiver potential advantage feasibility study
+rfid network topology design base genetic algorithm
+rfid object tracking ip compatibility internet thing
+rfid service non-rfid enable device embedded hardware implementation
+rfid-assisted indoor localization impact interference performance
+rfid-assisted movement detection improvement ip mobility
+ring-based pon support multiple optical private network ocdma technique
+risk assessment supply chain rfid wireless sensor network integration approach
+robust efficient route wireless mesh network unreliable node
+robust average consensus total variation gossip algorithm
+robust route optimal partitioning traffic demand polytope
+robustness adaptive narrowband beamform respect bandwidth
+robustweb development validation soa application base web service
+rofl restoration failure link-bandwidth sharing
+role base interoperability security policy collaborative system
+rori-based countermeasure selection orbac formalism
+route manipulation attack wireless mesh network
+route tables building method increase dns sec resolving platforms efficiency
+rsse-miner approach efficient event mine social media rss feed
+satisfaction coherence deadline constraint inter-organizational workflow
+sbrm score-based route mechanism vehicle ad hoc network
+scalability signaling architecture
+scalability issue design implement semantic provenance management system
+scalable mining frequent tri-concept folksonomy
+scalable multimedia delivery qos management pervasive computing environment
+scalable privacy protect scheme distribute rfid tag identification
+scalable video transmission overlay network
+scaling analysis delay rejection mcmc method
+scaling analysis multiple-try mcmc method
+scaling multilevel physical optics parallel algorithm large grid
+scenario research issue network information
+scene analysis indoor positioning enhancement
+scls stream-controlled link scheduling algorithm mimo wireless mesh network
+scope prototype spontaneous p2p social networking
+scope service classify overlay p2p environment service platform p2p service ad-hoc network demo
+scoring anomaly m-estimation formulation
+sculpture event-b model rodin hole lump '' teaching refinement problem-based learning
+search composition learn object visual environment
+secure communication multicapacity device authentication support network operator
+secure e-passport protocol elliptic curve diffie-hellman key agreement protocol
+security protocol testing attack tree
+security rule specification analysis base passive testing
+select access network byod enterprise business context ebc enterprise-centric andsf
+select solver community base crowdsource disaster management
+self-connectivity estimation super node overlay creation ad-hoc network
+self-defending cloud myth reality
+self-managed micro-container service-based application cloud
+self-managed generation service autonomic principle address challenge ngs management
+self-organization node bio-inspired technique achieve small world property
+self-organization wireless ad hoc network small world long range directional beam
+semantic analysis role mining result shadowed role detection
+semantic clustering user base shared conceptualization folksonomy
+semantic context-aware service composition build automation system
+semi-flooding location service cross-layer design
+semi-flooding location service
+sensitiviy saic maic concept residual frequency offset
+sensor-ostr energy-efficient dynamic tdma frame size-based mac protocol wireless multi-hop sensor network
+separation instantaneous mixture dependent source classical ica method
+sequential monte carlo smooth general state space hide markov model
+sequential monte carlo smooth application parameter estimation linear state space model
+serial progressive hierarchical turbo code
+servery future internet telco user convergence
+servery web telco marketplace
+service business process generation service required step achieve service convergence
+service composition base functional non-functional description sca
+service composition ims environment evolve scim base approach
+service dependency information system security
+service dependencies-aware policy enforcement framework base hierarchical color petri net
+service discovery ubiquitous environment approach requirement context-awareness
+service orient computing user perspective
+service protocol replaceability assessment mediated service interaction
+sessamo session mobility video streaming application
+session continuity splitting multimedia application qualitative user preference
+set trust evaluation fuzzy logic moe
+shape future service environment cloud internet thing network challenge service evolution
+sharex3d scientific collaborative 3d viewer http
+short multipath insensitive code loop discriminator
+siegel distance-based covariance matrix selection space-time adaptive
+significantly improve performance cryptographically generate address ecc gpgpu
+simulation-based analysis heterogeneous indoor localization scheme
+single-node cluster reduction wsn energy-efficiency cluster formation
+situation-aware adaptive recommendation assist mobile user campus environment
+situation-aware user 's interest prediction query enrichment
+sla management monitoring based-etom ws-composite ims network
+smart wireless design scheme fuzzy-logic route tdma mac protocol integration
+social community intelligence technology trend
+social composer social-aware mashup creation environment
+social discovery composition web service
+social-based web service discovery composition step-by-step mashup completion
+social-content revolution . vision future social orient networking
+social-dtn social networking service fruitful mobile delay-tolerant network
+socp2p p2p content discovery enhancement social network characteristic
+software architecture pattern context-processing middleware framework
+software implementation osiris iris recognition algorithm fpga
+software radio fm broadcast receiver audio indexing application
+software reuse plagiarism code practice
+software vulnerability prevention detection method review
+sound environment analysis smart home
+source address validation improvement savi
+speaker diarization data-driven audio sequencing
+spectral bound maximum cut problem
+spectral bound unconstrained -1,1 quadratic optimization problem
+spectral bound unconstrained 1 1,1 quadratic optimization problem
+spectral efficiency beamforming-based parameter estimation single source case
+spectral phase en/decoders ocdma access network
+spectral phase ocdma encoder/decoder travel interference fringe photo-writing technique
+spectral shaping tradeoff root-raised-cosine pdm-qpsk nonlinear transmission
+statistical learning-based automated healing application mobility 3g lte network
+statistical performance music-like algorithm resolve noncircular source
+status gnss transmitter-based approach indoor positioning
+steady-state behavior semiconductor laser diode subject arbitrary level external optical feedback
+steiner networks unicyclic connected component
+stochastic bound histogram network performance analysis
+stochastic comparison markov process coupling map function
+stochastic comparison methodology performance evaluation fix mobile network
+stochastic comparison apply g-network catastrophe
+stochastic comparison performability telecommunication system
+stochastic monotonicity queue network
+strong weak ordering accurate resource dimension
+strong weak stochastic bound multidimensional markov chain
+study physical layer encryption concept
+subgeometric rate convergence f-ergodic strong markov process
+subsampling-based hmc parameter estimation application large dataset classification
+subspace blind equalization channel low snr
+subspace blind mimo channel equalization quadratic complexity
+substitution network base software define networking
+suitability hiperlan 's ey-npma traffic jam scenario vanet
+summarize sensor datum vehicular ad hoc network
+summary sensor datum vehicular ad hoc network
+switch pairwise markov chain stationary textured image segmentation
+symbolic abstraction deadlock freeness verification inter-enterprise process
+symbolic abstraction deadlock-freeness verification inter-enterprise process
+systematic investigation inas/inp quantum-dash base laser external optical feedback
+systemic interference mitigation combined repeater/pseudolite approach indoor positioning
+rich context situation account improve adaptive e-learning system
+teach graph algorithm child age
+technical development clinical evaluation intelligent continence management system nursing home
+technical enforcement european privacy legislation access control approach
+technological implementation fabry-p erot cavity ti linbo3 waveguide fib
+teletraffic capacity performance wdm/ds-ocdma passive optical network
+temperature dependence dynamic property tolerance optical feedback high-speed 1.3 mu dfb quantum-dot laser
+temperature dependence dynamic property tolerance optical feedback high-speed 1.3 dfb quantum-dot laser
+test probabilistic fsm interval estimation
+test interoperability security policy
+test security policy web application
+test web service orchestrator context symbolic approach
+architecture design cross-domain context management system
+cut separator problem
+design usage activity-oriented social networking dig-event
+design implementation usage analysis event-based consumer mashup system
+emergence social community intelligence
+integration corporate security strategy collaborative business process
+internet thing challenge architecture problem
+k-separator problem
+metalist model simple extensible information model future internet
+viterbi algorithm resolution enhance iris segmentation
+theme issue context-aware middleware application
+order widely nonlinear volterra mvdr beamform
+tibc trade-off identity-based certificateless cryptography internet future
+tight bind length distinguish sequence non-observable nondeterministic finite-state machine polynomial number input output
+time delay transmitter base indoor positioning system simple electronic optical architecture signal generation
+time-frequency analysis efficient detection localization side-coupled cavity real photonic crystal
+time-wavelength reflectance map photonic crystal waveguide view disorder-induced scattering
+time extended invariant passive testing web service
+tison trust inference computation online social network
+topology control route large scale wireless sensor network
+cooperative programming framework context-aware application
+ad hoc node design secure service deployment ad hoc network
+security model future network information
+solution partitionable group membership manet
+integrate ontology web service
+build efficient application layer multicast tree
+total quality experience qoe model communication ecosystem
+understanding learn object content
+context aware modeling trust access control base user behavior capability
+dynamic middleware wireless sensor network
+scalable semantic provenance management system
+secure e-passport protocol base biometric
+secure email service future internet
+service delivery base customer experience ontology shift service experience
+social mobility model
+task support system cbr approach smart home
+transformation composite web service qos extension acme armani
+transformation composite web service qos extension acme backslasharmanus
+unify marketplace functionality-based cloud service discovery
+all-numerical implementation correlation
+access-control metamodel web content management system
+approach formal verification mediation protocol base web service mde type
+approach formal verification mediation protocol base web service
+approach define capacity-driven web service
+approach sustain web service high-availability community web service
+efficient implementation openmp distribute memory system cape discontinuous incremental checkpointing
+automated service composition policy ontology building automation system
+context-aware component
+develop effective continence management wetness alert diaper experience lesson learn challenge future direction
+halo network ubiquitous networking computing edge
+large-scale network virtualization
+multi-layer autonomic isolation cloud computing networking resource
+multiple-exchange protocol distribute aaa framework autonomy manet
+non-intrusive sleep pattern recognition elder assistive environment
+optical network
+personalized service composition ims basic approach
+qoc-aware location-based service
+service continuity ims heterogeneous access network
+track maneuver target particle filter technique passive radar fm dvbt broadcasting signal
+track topology dynamicity link prediction intermittently connect wireless network
+traffic characterization study epon 's upstream channel
+transform bpel intermediate format language web service composition testing
+transmit reserve tar coordinate channel access ieee 802.11 network
+troubleshooting 3g lte mobility parameter iterative statistical model refinement
+trust-based authentication scheme user rating low-resource device smart environment
+trust-orbac trust access control model multi-organization environment
+turbo equalization two-dimensional intersymbol interference channel gaussian belief propagation
+turbo segmentation textured image
+bioinspired method dynamic signature analysis
+complementary tool formal testing distribute system time constraint
+design issue cognitive sub-small cell sojourner
+two-hops clustering algorithm compose metric wireless sensor network
+ufa ultra flat architecture high bitrate services mobile network
+understand discrete linear mode coupling few-mode fiber transmission system
+understand social relationship evolution real-world sense datum
+understand evolution multimedia content internet bittorrent glass
+understand topology challenge implementation wireless sensor network cold chain
+unleash disruptive potential user-controlled identity management
+unobtrusive sleep posture detection elder-care smart home
+unsupervised datum classification pairwise markov chain automatic copula selection
+unsupervised restoration gaussian pairwise mixture model
+unsupervised segmentation hidden semi-markov non-stationary chain
+unsupervised segmentation semi-markov chain hide long dependence noise
+unsupervised segmentation stationary datum hide stationary noise
+unsupervised segmentation non-stationary hidden markov chain copula
+unsupervised segmentation nonstationary pairwise markov chain evidential prior
+unsupervised segmentation random discrete datum hide switching noise distribution
+unsupervised segmentation randomly switch datum hide non-gaussian correlate noise
+unsupervised segmentation switching pairwise markov chain
+unsupervised segmentation triplet markov chain long-memory noise
+upstream ocdma-tdm passive optical network sourceless onu
+urban traffic modelling prediction large scale taxi gps trace
+invariant property evaluate result fault-injection-based robustness testing protocol implementation
+user behavior capability based access control model architecture
+user mobility web-based communication system
+user preferences-based automatic device selection multimedia user task pervasive environment
+user-centric cloud save future ... internet
+user-centric personalisation next-generation persuasive healthcare system
+user-centric service selection integration management daily event
+user-centric service service composition survey
+fringe minimal conceptual decomposition binary context
+lqi improve clusterhead location dense zigbee base wireless sensor network
+ontology build testb peer-to-peer information retrieval system
+passive testing base symbolic execution slice technique application validation communication protocol
+recommendation limit search space web service discovery
+requirement engineering automatic security policy derivation process
+send signature algorithm agility multiple-key cga secure proxy neighbor discovery anycast address
+source-to-source transformation tool provide distribute parallel application openmp source code
+testing technique vulnerability detection program
+validation cosmos dsl program
+vehicle ad hoc networks application related technical issue
+velocity effect performance manemo
+verification maintenance e-voting system standard
+verification interoperability security policy model checking
+verify composite service transactional behavior event-b
+verify absence property pattern
+vespa multi-layered self-protection cloud resource
+video streaming security reliable hash chain mechanism redundancy code
+video streaming security window-based hash chain signature combine redundancy code youtube scenario internet case study
+virtual network provision multiple substrate network
+virtual resource description clustering virtual network discovery
+volume-oriented route modification
+wallet-on-wheel vehicle 's identity secure mobile money
+watchman overlay distribute aaa architecture mobile ad hoc network
+wavelength-selective ti linbo3 multiple y-branch coupler base focused ion beam mill bragg reflector
+weak stochastic comparison performability verification
+weave formal method education problem-based learning
+web service micro-container service-based application cloud environment
+web service recommendation base user 's behavior
+web service recommender system research roadmap
+webmov dedicated framework modelling testing web service composition
+webrtc day
+weight social manhattan modeling performance analysis mobility model
+traffic characterisation epon 's upstream channel
+'s 2.0 p2p spontaneous social networking
+'s 3.0 spontaneous social networking challenge network
+'s p2p spontaneous social networking
+widget composition mechanism service creation ordinary user
+widget facilitate service integration pervasive environment
+wifi hybridisation pseudolite repeater indoor positioning purpose
+wimax quality-of-service estimation measurement
+wimax-based overlay conference service
+wireless multicast cost sharing game dynamic population
+wireless sensor network energy base protocol medical application
+ws-composite management monitoring ims network
+xml archive testing benchmark guessxq
+xpacml extensible privacy access control markup language
+yasa-m semantic web service matchmaker
+semantic annotation wsdl
+zone switching diversity hierarchical resource allocation mobile wimax network
