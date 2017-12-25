@@ -1,0 +1,2 @@
+property,compound,cavity,mode,feedback,semiconductor,laser,arbitrary,level
+self-organization,node,bio-inspired,technique,achieve,small,world,property

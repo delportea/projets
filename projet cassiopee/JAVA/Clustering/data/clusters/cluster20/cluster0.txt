@@ -1,0 +1,1 @@
+optical,bandpass,lyot,filter,tunable,bandwidth
