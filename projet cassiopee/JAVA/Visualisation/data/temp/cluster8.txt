@@ -1,0 +1,17 @@
+remote,collaboration,decision,support,on-demand,medical,image,analysis,acute,stroke,care,cloud,compute,high,performance,computing,telemedicine
+enhance,revenue,optimize,sla-based,admission,control,iaa,cloud,network,iaas,infrastructure,performance,analysis,queue,theory
+bottleneck-free,tree-based,resolution,system,information-centric,networking,information,centric,tree,architecture,multiple,hash,function
+automatic,opencl,code,generation,multi-device,heterogeneous,architecture,accelerator
+maximal,shortest,path,connected,component,v2v,vanet,traffic,trace,vehicular,connect,size,performance,evaluation
+hybrid,model,extend,vehicular,intercommunication,v2v,d2d,architecture,vanet,intelligent,transportation,system
+improve,reliability,performance,cape,mpi,datum,exchange,network,openmp,high,computing,parallel,programming
+impact,playout,buffering,mobile,tv,performance,bit,rate,real,time,system,streaming,media,throughput,unicast
+performance,study,java,garbage,collector,multicore,architecture,gc
+performance,improvement,hybrid,opto-electronic,packet,switch,sdm,addition,wdm,optical,communication
+performance,analysis,hybrid,optical-electronic,packet,switch,support,service,class,optical,communication,equipment,switching,optoelectronic,device,contention,resolution
+formally,test,protocol,performance,passive,testing,formal,method,requirement,sip
+micro-economy,effect,cloud,federation,economic,study
+evaluate,htm,pauseless,garbage,collector,java,collection,hardware,transactional,memory,virtual,machine
+stochastic,bound,model,performance,analysis,cloud,markov,chain
+performance,analysis,hybrid,opto-electronic,packet,switch,wdm,technology,optical,switching,op,optoelectronic,device,contention,resolution,energy,consumption
+sfr,scalable,forwarding,rina,distribute,cloud,performance,evaluation,simulation,network,management,route,topological,address

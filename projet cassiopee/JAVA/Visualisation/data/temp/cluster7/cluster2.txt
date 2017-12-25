@@ -1,0 +1,7 @@
+modeling,landing,gear,system,event-b,event,formal,development,refinement,strategy,verification,validation
+pattern,activity,identification,framework,medical,nursing,home,infrared,sensor,remote,healthcare,monitoring,system,infrare,dempster,shafer,daily,living,distress,situation,datum,fusion
+design,virtual,laboratory,relational,database,mooc,remote,learning,virtualization,open,education,resource,vagrant
+guide,tester,hand,monitoring,tool,application,testing,approach,sip,formal,method,passive
+framework,multiscale,qoc,privacy-aware,context,dissemination,internet,thing,management,multiscalability,quality,privacy,distribute,event,base,system
+log-based,process,fragment,query,support,desig,business,design,event,log,language
+understand,taxi,service,strategy,gp,trace,revenue,prediction,trajectory,mining

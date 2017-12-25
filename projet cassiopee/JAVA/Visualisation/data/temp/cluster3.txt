@@ -1,0 +1,2 @@
+self-organizing,map,fingerprinting-based,cooperative,localization,dynamic,indoor,environment,cooperation,organize,som,wlan,fingerprinting
+dynamic,femto,cell,architecture,tv,whitespace,improve,user,experience,urban,crowd,whitepsace,dataset,cognitive,radio

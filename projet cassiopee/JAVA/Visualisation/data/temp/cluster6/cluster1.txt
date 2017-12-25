@@ -1,0 +1,13 @@
+remark,peinado,al.,analysis,j3gen,network,security,wireless,cryptography
+two-tier,cooperative,caching,mechanism,optimization,multi-attribute,periodic,query,wireless,sensor,network
+passive,testing,approach,protocol,wireless,sensor,network,conformance
+resource,management,framework,802.11,wireless,access,network,adaptive,fairness,control
+unify,datum,model,wireless,sensor,network,wsn,wban,open,semantic,ontology,heterogeneity,management,interoperability,ehealth,health
+wireless,sensor,network,virtualization,survey,wsn,internet,thing,iot,node,level,viirtualization
+effective,attack,detection,approach,wireless,mesh,network,wmn,route,trace,security
+three-dimensional,sub-region,query,processing,mechanism,underwater,wsn,region,route,tree,construction,maintenance,wireless,sensor,network
+survey,wireless,sensor,network,security,base,layered,approach,iot,wsn,6lowpan,coap,802.15.4
+span,datum,heterogeneous,manet,proactive,strip,interoperability,wireless,ad,hoc,network,ipv6,olsr,bmx6,docker
+virtualized,wireless,sensor,network,iaa,ready,paas,internet,thing,cloud,computing,virtualization,paa
+estimation,postoperative,knee,flexion,initial,contact,cerebral,palsy,child,neural,network,biomechanic,clinical,gait,analysis,nonlinear,datum,fitting
+survey,secure,communication,protocol,internet,thing,security,key,management,wireless,sensor,network

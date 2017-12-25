@@ -1,0 +1,8 @@
+ambient,sense,iot-based,context,computing,open,framework,end,qoc,management,quality,criterion,meta,modeling,information,model
+editorial,green,energy,management,smart,grid,cyber,physical,interaction
+coalition,formation,algorithm,prosumer,smart,grid,environment,communication
+dynamic,anchor,point,selection,mobility,management,software,define,network,latency,handover
+resource-aware,business,process,development,cloud,resource,management,computing
+generic,trust,management,gramework,machine-learning-based,model,passive,testing,svm,machine,learning,dn
+network,issue,virtual,machine,migration,virtualization,mobility,management
+game,theory,approach,dynamic,pricing,optimize,smart,grid,operation,optimization

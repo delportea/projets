@@ -1,0 +1,10 @@
+group-based,authentication,v2v,communication,vanet,security,pki,ieee,1609.2
+tl,record,protocol,security,analysis,defense-in-depth,countermeasure,http,ssl,mask,defense,depth
+test-bed,building,process,context-aware,peer-to-peer,information,retrieval,evaluation,test,bed,query,expansion,route,result,aggregation,document,distribution,ontology,peer
+scheduling,i/o,request,mapreduce,task,base,markov,model,cloud,storage,disk,algorithm
+active,testing,tool,security,distribute,system,drp,model,base,test,gen
+distribute,testing,approach,base,test,case,dependency,communication,protocol,conformance,system,sip,tdl
+distribute,consensus,metamorphic,system,gossip,algorithm,cat,0,metric,space
+process,mining,trust,monitoring,communication,system
+fast,group,discovery,non-repudiation,d2d,communication,ibe,security,device,lte,identity,base,encryption
+fliermeet,mobile,crowdsensing,system,cross-space,public,information,repost,tag,share,participatory,sense,cross,space,datum,group,selection,interaction,base,semantic,tagging,urban

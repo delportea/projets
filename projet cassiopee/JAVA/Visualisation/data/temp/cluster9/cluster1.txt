@@ -1,0 +1,2 @@
+soft,frequency,reuse,scheme,heterogeneous,lte,system,long,term,evolution,fractional
+enterprise,social,system,collaboration,tool,workplace

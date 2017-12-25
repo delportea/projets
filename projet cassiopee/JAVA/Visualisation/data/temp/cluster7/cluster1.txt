@@ -1,0 +1,6 @@
+formal,approach,ensure,correct,reconfigurable,composite,service,web,verification,proof,model,checking
+proof-based,verification,approach,dynamic,property,application,information,system,domain,formal,method,proof,pattern
+formal,approach,verify,qo,variability,web,service,composition,event-b,composite,verification,proof,model,checking,ltl
+formal,modeling,verify,sca,composition,dynamic,reconfiguration,event,verification,structural,property,behavioral,compatibility,service,selection,substitution
+formal,modeling,verify,sca,dynamic,composition,event-b,reconfiguration,event,verification,property,service,selection,substitution
+context,feature,selecting,weighting,method,context-aware,recommendation,aware,selection

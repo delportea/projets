@@ -1,0 +1,16 @@
+automate,resource,discovery,multiple,datum,store,cloud,application,nosql,relational,polyglot,persistence,manifest,base,odbapus
+privacy,mobile,cloud,crowdsourcing,computing,location,base,service
+optimization,processing,datum,stream,roughly,characterize,distribute,resource,memory,divisible,load,scheduling,adaptive,intensive,application,parallel
+collaborative,autonomic,management,distribute,component-based,application,component,base,container,collaboration
+collaborative,autonomic,container,management,component-based,aplication,computing,component,base,application,collaboration
+assist,sensor-based,application,design,instantiation,activity,recommendation,sensor,base,service,composition,adaptation,neighbourhood,context
+decentralize,service-based,solution,datum,mediation,case,provide,service,composition,web,maa
+qoe,evaluation,base,qo,qobiz,parameter,apply,ott,service,quality,qos,experience,business,extend,finite,state,machine,efsm
+autonomic,approach,manage,elasticity,business,process,cloud,occi,computing,qo,service
+smartfit,step,count,base,mobile,application,engagement,physical,activity,feedback,gamification
+semantic,process,fragment,match,assist,development,variant,business,service,bpaas,cloud,computing,ontology,technology
+event-b,base,approach,verify,cloud,resource,allocation,business,process,management,computing,proof,model,checking
+efficient,optimization,algorithm,autonomic,manager,service-based,application,cloud,computing,service,base,management
+cross-standard,user,description,mobile,medical,orient,virtual,collaborative,environment,mpeg,4,w3c,webid,ud,html5,medusa,application,virtualization,remote,desktop,protocol
+context-aware,multi-modal,traffic,management,q-learning,base,algorithm,learning,multus,modal,context,awareness
+fuzzy,aggregation,result,merge,information,retrieval,application,choquet,integral

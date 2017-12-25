@@ -1,0 +1,15 @@
+perform,initiative,datum,prefetch,distribute,file,system,sloud,computing,prefetching,mobile,cloud,server,side,prediction,time,series
+large-scale,mobile,phenomenon,monitor,energy-efficiency,wireless,sensor,network,continuous,object,monitoring,sense,energy,efficiency
+performance,delay,tolerant,mobile,network,propagation,buffer,capacity,constraint,dtmn,mobility,route,evaluation
+non-intrusive,sleep,pattern,recognition,ubiquitous,sense,elderly,assistive,environment,elder,care,pressure,sensor,uwb,tag,naã,¯,ve,baye,random,forest
+rer,real,time,energy,efficient,route,protocol,query-based,application,wireless,sensor,network
+nationtelescope,monitoring,visualize,large-scale,collective,behavior,lbsn,participatory,sense,location,base,social,network,system,usability,scale
+energy,save,solution,integrated,access,network,saving,simulation,mobile,optic,node,model
+dynamic,energy,efficient,optical,line,terminal,design,access,network,efficiency,terninal,architecture,performance,simulation
+tear,multi-purpose,formal,language,specification,testing,runtime,network,monitoring
+energy,consumption,evaluation,lte,scheduling,algorithm,network,wireless,green,power,pf,exp,mlwdf
+reality,mining,mobile,datum,understand,impact,network,structure,propagation,dynamics,structural,knowledge
+3d,object,metamorphosis,pseudo,metamesh,mesh,morphing,spherical,parameterization,radial,basis,function,supermesh
+eemc,enable,energy-efficient,mobile,crowdsense,anonymous,participant,acm,reference,format,category,subject,descriptor,c24,distribute,system,application,general,term,human,factor,algorithm,performance,additional,key,word,phrase,crowdsensing,energy,efficiency,task,assignment,decision,make
+effsense,mobile,crowd-sensing,framework,energy-efficient,cost-effective,datum,upload,delay,tolerant,crowd,sense,energy,saving,crowdsensing,usage
+etsi,tc,smartban,overview,wireless,body,area,network,standard,wban,healthcare,wellfare,leisure,short,range,communication,low,power,energy,efficiency,coexistence,heterogeneity,management,interoperability,semantic,datum,model
