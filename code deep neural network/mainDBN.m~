@@ -1,0 +1,18 @@
+clear all;
+close all;
+clc;
+
+jeu=load('binaryalphadigs.mat');
+dat=jeu.dat;
+nb=size(jeu.dat{1,1});
+num =[11,13];
+data=lire_alpha_digit( num, dat);
+taille=100;
+nb_iter=100;
+learning_rate=0.1;
+batch_size=100;
+nb_images=20;
+nb_iter2=3000;
+
+config= [size(data,2),50,50,50, 36];
+[DNN] = init_DNN(config);

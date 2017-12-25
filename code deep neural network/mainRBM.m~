@@ -1,0 +1,9 @@
+clear all;
+close all;
+clc;
+
+
+jeu=load('binaryalphadigs.mat');
+dat=jeu.dat;
+num =[11,13];
+data=lire_alpha_digit( num, dat);
