@@ -1,0 +1,6 @@
+triplex-layer,base,p2p,service,exposure,model,convergent,environment
+model,resource,specification,mobile,service
+service,dependency,model,cost-sensitive,intrusion,response
+cloudserv,paa,resource,provision,service,application
+navigation,information,proxy,server,handoff,mobile,iptv,service
+semantic,enhance,service,exposure,model,converged,environment

@@ -1,0 +1,17 @@
+human,activity,recognition,support,context-appropriate,reminder,elderly
+gesture,recognition,3-d,accelerometer
+location,daily,activity,recognition
+hybrid,sn,interlink,opportunistic,online,community,augment,information,dissemination
+design-in-play,improve,variability,indoor,pervasive,game
+dynamic,signature,representation,minimum,jerk,principle
+send,signature,algorithm,agility,multiple-key,cga,secure,proxy,neighbor,discovery,anycast,address
+local,quality,measure,improve,iris,recognition
+improve,video,iris,recognition,local,quality,weighted,super,resolution
+measure,quality,iris,segmentation,improve,recognition,performance
+human,action,recognition,continuous,hmm,hog/hof,silhouette,representation
+software,implementation,osiris,iris,recognition,algorithm,fpga
+effective,elliptic,fitting,iris,normalization
+biosecure,signature,evaluation,campaign,bsec,2009,evaluate,online,algorithm,depend,quality
+measure,forgery,quality,online,signature
+daily,sound,recognition,combination,gmm,svm,home,automation
+adaptive,learning,vector,quantization,online,parametric,estimation

@@ -1,0 +1,17 @@
+fringe,minimal,conceptual,decomposition,binary,context
+framework,quality,context,management
+ca3m,runtime,model,middleware,dynamic,context,management
+complementarity,process-oriented,ontology,context,manager,identify,situation
+mde,dsl,tooling,effective,context,management,ubiquitous,computing
+income,multi-scale,context,management,internet,thing
+assist,business,process,design,activity,neighborhood,context,matching
+structural,characterization,sparseness,measure,frequent,closed,itemset,context
+icross,scalable,infrastructure,cross-domain,context,management
+context,gateway,physical,space
+enhance,m2m,communication,cloud,context,management
+analyze,consumerization,enterprise,business,context,determine,session,policy
+handoff,management,rely,rfid,technology
+dempster-shafer,fusion,multisensor,signal,nonstationary,markovian,context
+context,ontology,secure,interoperability
+qocim,meta-model,quality,context
+management,stateful,firewall,misconfiguration

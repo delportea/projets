@@ -1,0 +1,4 @@
+authoring,reuse,scorm,learn,object
+check,semantic,consistency,scorm,learn,object
+improve,learn,object,quality,style
+learn,style,teaching,strategy,improve,scorm,object,quality

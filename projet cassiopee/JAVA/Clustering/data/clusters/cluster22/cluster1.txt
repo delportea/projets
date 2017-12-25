@@ -1,0 +1,4 @@
+policy,framework,autonomic,reconfiguration,management,heterogeneous,network
+semantic,database,framework,context,management,heterogeneous,wireless,network
+heterogeneous,multi-sensor,fusion,base,evidential,network,fall,detection
+step,adaptation,evidential,network,datum,fusion,framework,medical,remote,monitoring

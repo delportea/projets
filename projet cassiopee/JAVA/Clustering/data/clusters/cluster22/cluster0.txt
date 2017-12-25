@@ -1,0 +1,4 @@
+limitation,honeypot/honeynet,database,enhance,alert,correlation
+enhance,broadcast,vehicular,communication,beamform,technique
+enhance,qos-enabled,dynamic,bandwidth,allocation,mechanism,ethernet,pon
+ecousin,enhance,content,distribution,social,information

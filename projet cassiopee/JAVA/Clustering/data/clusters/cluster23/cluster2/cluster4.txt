@@ -1,0 +1,6 @@
+clustering,managing,datum,provide,service,machine,learning,technique
+self-managed,generation,service,autonomic,principle,address,challenge,ng,management
+p2p,middleware,wide-area,service,discovery
+user-centric,service,selection,integration,management,daily,event
+datum,provide,service,clustering,management,facilitate,discovery,replacement
+service,discovery,ubiquitous,environment,approach,requirement,context-awareness

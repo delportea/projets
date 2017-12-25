@@ -1,0 +1,13 @@
+qom,quality,experience,framework,multimedia,service
+generic,framework,service,business,process,elasticity,cloud
+approximate,placement,service,application,hybrid,cloud
+unify,marketplace,functionality,cloud,service,discovery
+provide,monitoring,facility,service,deploy,cloud
+context,service,recommendation,assist,business,process,design
+self-managed,micro-container,service,application,cloud
+add,monitoring,reconfiguration,facility,service,application,cloud
+comprehensive,framework,context-aware,communication,service
+service,business,process,generation,required,step,achieve,convergence
+service,dependencies-aware,policy,enforcement,framework,base,hierarchical,color,petri,net
+formal,modeling,evaluation,service,business,process,elasticity,cloud
+formal,modeling,elastic,service,business,process

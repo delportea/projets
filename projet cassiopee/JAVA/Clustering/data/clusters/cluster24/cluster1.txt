@@ -1,0 +1,12 @@
+cache,p2p,traffic,benefit,isp
+emergence,social,community,intelligence
+personalize,healthcare,self-management,social,persuasion
+opportunistic,iot,explore,social,side,internet,thing
+extract,social,community,intelligence,digital,footprint,emerge,research,area
+social,community,intelligence,technology,trend
+p2p,spontaneous,social,networking
+2.0,p2p,spontaneous,social,networking
+design,usage,activity-oriented,social,networking,dig-event
+improve,p2p,content,discovery,exploit,user,social,pattern
+scope,prototype,spontaneous,p2p,social,networking
+social-content,revolution,vision,future,social,orient,networking

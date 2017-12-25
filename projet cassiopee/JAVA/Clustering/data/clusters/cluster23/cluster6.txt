@@ -1,0 +1,3 @@
+collaborative,approach,context-aware,service,provision,smart,environment
+collaborative,filter,technique,web,service,recommendation,base,user-operation,combination
+collaborative,handover,mechanism,real-time,service

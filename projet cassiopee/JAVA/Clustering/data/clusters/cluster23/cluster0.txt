@@ -1,0 +1,6 @@
+ensure,customise,transactional,reliability,composite,service
+datum,map,web,service,composite,daa,mediation
+verify,composite,service,transactional,behavior,event-b
+transformation,composite,web,service,qo,extension,acme,backslasharmanus
+event,design,runtime,verification,composite,service,transactional,behavior
+transformation,composite,web,service,qo,extension,acme,armanus

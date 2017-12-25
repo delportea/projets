@@ -1,0 +1,3 @@
+realization,fabry-p,erot,cavity,focus,ion,beam,milling
+effect,depth,etching,bragg,reflector,realize,focus,ion,beam,ti,linbo3,waveguide
+technological,implementation,fabry-p,erot,cavity,ti,linbo3,waveguide,fib

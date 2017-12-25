@@ -1,0 +1,10 @@
+service,composition,im,environment,evolve,scim,base,approach
+im,poc,service,monitor,formal,conformance,testing
+interoperability,testing,presence,service,im,platform
+efficient,identity,base,authentication,im,service,access
+enriched,scim,service,composition,im,environment
+extended,policy,automatic,service,composition,im
+personalize,service,composition,im,basic,approach
+metadata,approach,multimedia,service,mashup,im
+integrate,identity,cryptography,im,service,authentication
+im,enable,converge,service,cable,3g,technology,survey

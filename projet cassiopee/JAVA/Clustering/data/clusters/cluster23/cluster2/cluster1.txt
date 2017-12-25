@@ -1,0 +1,3 @@
+analysis,improvement,alignment,business,information,system,telecom,service
+analysis,distribute,e-voting,system,architecture,quality,service,requirement
+business,information,system,alignment,formal,solution,telecom,service

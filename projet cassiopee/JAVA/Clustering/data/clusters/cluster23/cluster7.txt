@@ -1,0 +1,6 @@
+ex-sdf,extended,service,dependency,framework,intrusion,impact,assessment
+service,protocol,replaceability,assessment,mediated,interaction
+assess,replaceability,service,protocol,mediated,interaction
+unify,session,control,protocol,iptv,service
+context-aware,iptv
+quantitative,qualitative,assessment,qoe,multimedia,service,wireless,environment

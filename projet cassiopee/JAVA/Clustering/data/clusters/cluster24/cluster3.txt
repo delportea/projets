@@ -1,0 +1,13 @@
+unsupervised,segmentation,randomly,switch,datum,hide,non-gaussian,correlate,noise
+turbo,segmentation,textured,image
+pairwise,uniformly,hide,markov,field
+unsupervised,segmentation,non-stationary,hidden,markov,chain,copula
+unsupervised,segmentation,nonstationary,pairwise,markov,chain,evidential,prior
+unsupervised,segmentation,switching,pairwise,markov,chain
+switch,pairwise,markov,chain,stationary,textured,image,segmentation
+unsupervised,segmentation,stationary,datum,hide,noise
+unsupervised,segmentation,hidden,semi-markov,non-stationary,chain
+unsupervised,segmentation,random,discrete,datum,hide,switching,noise,distribution
+unsupervised,segmentation,semi-markov,chain,hide,long,dependence,noise
+unsupervised,segmentation,triplet,markov,chain,long-memory,noise
+unsupervised,datum,classification,pairwise,markov,chain,automatic,copula,selection

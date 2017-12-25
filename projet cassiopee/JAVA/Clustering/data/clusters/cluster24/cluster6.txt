@@ -1,0 +1,8 @@
+promote,mashup,creation,unstructured,datum,extraction
+constrain,closed,derivable,datum,cube
+privacy-preserving,datum,mashup
+oodles,datum,mining,moodle,understand,student,behaviour
+single-node,cluster,reduction,wsn,energy-efficiency,formation
+access,datum,wsn
+understand,social,relationship,evolution,real-world,sense,datum
+mobility,voice-like,datum,traffic,ieee802,.16

@@ -1,0 +1,4 @@
+context-aware,information,model,elderly,homecare,service,smart,home
+integrated,service,platform,pervasive,elderly,care
+osgi,smart,taxi,service,platform
+cloud,service,delivery,multiple,platform

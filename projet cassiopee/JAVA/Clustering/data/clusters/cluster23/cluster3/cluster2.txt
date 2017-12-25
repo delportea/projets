@@ -1,0 +1,9 @@
+approach,define,capacity-driven,web,service
+modeling,managing,community,web,service,registry
+approach,sustain,web,service,high-availability,community
+graph,management,community,web,service,registry
+implementation,community,web,service,registry
+implicit,approach,build,community,web,service,registry
+testing,web,service,orchestrator,context,symbolic,approach
+context-aware,decentralize,approach,web,service
+community,web,service,registry,construction,management

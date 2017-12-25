@@ -1,0 +1,2 @@
+reliable,transport,scheme,delay,tolerant,network,base,acknowledgment,random,linear,coding
+comfort,application,vehicular,ad,hoc,network,base,fountain,coding
